@@ -113,11 +113,11 @@
 - 接口源：
 
 ```bash
-https://raw.githubusercontent.com/gclgg/iptv-api/refs/heads/master/output/user_result.m3u
+https://v9.next.forgejo.org/gclgg/iptv-api/raw/branch/master/output/user_result.m3u
 ```
 
 ```bash
-https://raw.githubusercontent.com/gclgg/iptv-api/refs/heads/master/output/user_result.txt
+https://v9.next.forgejo.org/gclgg/iptv-api/src/branch/master/output/user_result.txt
 ```
 
 - 数据源：
