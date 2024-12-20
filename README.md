@@ -117,11 +117,11 @@ https://v9.next.forgejo.org/gclgg/iptv-api/raw/branch/master/output/user_result.
 ```
 
 ```bash
-https://v9.next.forgejo.org/gclgg/iptv-api/src/branch/master/output/user_result.txt
+https://v9.next.forgejo.org/gclgg/iptv-api/raw/branch/master/output/user_result.txt
 ```
 
 - 数据源：
 
 ```bash
-https://ghp.ci/raw.githubusercontent.com/Guovin/iptv-api/gd/source.json
+https://v9.next.forgejo.org/gclgg/iptv-api/raw/branch/master/source.json
 ```
