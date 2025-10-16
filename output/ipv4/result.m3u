@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/gclgg/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-16 18:21:23
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-17 06:14:55
 http://61.136.81.39:5957/rtp/225.1.4.73:1102
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://61.136.81.39:5957/rtp/225.1.4.73:1102
@@ -14,15 +14,13 @@ http://61.136.81.39:5957/rtp/225.1.4.158:1194
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道",CCTV-3
 http://58.19.180.108:9981/stream/channelid/188040143
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
-http://61.136.81.39:5957/rtp/225.1.5.30:1333
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
+http://61.136.81.39:5957/rtp/225.1.5.30:1333
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 http://58.19.180.108:9981/stream/channelid/1411564127
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
 http://58.19.180.108:9981/stream/channelid/908622330
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
-http://14.153.179.214:8686/rtp/239.77.0.87:5146
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
 http://61.136.81.39:5957/rtp/225.1.4.75:1104
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
@@ -31,8 +29,6 @@ http://58.19.180.108:9981/stream/channelid/115694977
 http://58.19.180.108:9981/stream/channelid/499001205
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
 http://61.136.81.39:5957/rtp/225.1.4.161:1197
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
-http://14.153.179.214:8686/rtp/239.77.1.160:5146
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
 http://61.136.81.39:5957/rtp/225.1.4.77:1106
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
@@ -45,6 +41,8 @@ http://61.136.81.39:5957/rtp/225.1.4.215:1268
 http://61.136.81.39:5957/rtp/225.1.4.79:1108
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
 http://58.19.180.108:9981/stream/channelid/857624678
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
+http://106.53.99.30/tv/cctv13.php
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 http://61.136.81.39:5957/rtp/225.1.4.113:1293
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
@@ -67,13 +65,17 @@ https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="🎬电影频道",星空卫视
 http://122.53.222.9:9981/stream/channelid/2084767267
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="🎬电影频道",星空卫视
+http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影.png" group-title="🎬电影频道",东森电影
 https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森洋片.png" group-title="🎬电影频道",东森洋片
 https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🎬电影频道",东森超视
+https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🎬电影频道",东森超视
 https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🎬电影频道",东森超视
-https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🎬电影频道",东森超视
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
