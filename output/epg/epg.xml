@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251114141617 +0800">
+<tv date="20251114161824 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -2331,6 +2331,15 @@
 	<programme channel="NewTV动作电影" start="20251114183300 +0800" stop="20251114200800 +0800">
 		<title lang="zh">特殊身份</title>
 	</programme>
+	<programme channel="NewTV动作电影" start="20251114200800 +0800" stop="20251114203800 +0800">
+		<title lang="zh">《八段锦》推荐第41期</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251114203800 +0800" stop="20251114215800 +0800">
+		<title lang="zh">小小飞虎队</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251114215800 +0800" stop="20251114222800 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
 	<channel id="NewTV惊悚悬疑">
 		<display-name lang="zh">NewTV惊悚悬疑</display-name>
 	</channel>
@@ -2387,6 +2396,12 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20251114185300 +0800" stop="20251114201800 +0800">
 		<title lang="zh">猫妖奇谭</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251114201800 +0800" stop="20251114204800 +0800">
+		<title lang="zh">《八段锦》推荐第41期</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251114204800 +0800" stop="20251114221600 +0800">
+		<title lang="zh">猎杀外星人</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
