@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251116201402 +0800">
+<tv date="20251116221200 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -2139,6 +2139,9 @@
 	<programme channel="NewTV动作电影" start="20251117020100 +0800" stop="20251117024000 +0800">
 		<title lang="zh">营养健康40</title>
 	</programme>
+	<programme channel="NewTV动作电影" start="20251117024000 +0800" stop="20251117041000 +0800">
+		<title lang="zh">侠探锦毛鼠之血光再起</title>
+	</programme>
 	<channel id="NewTV惊悚悬疑">
 		<display-name lang="zh">NewTV惊悚悬疑</display-name>
 	</channel>
@@ -2147,6 +2150,12 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20251117012800 +0800" stop="20251117020800 +0800">
 		<title lang="zh">营养健康40</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251117020800 +0800" stop="20251117034500 +0800">
+		<title lang="zh">荒野逃生</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251117034500 +0800" stop="20251117051900 +0800">
+		<title lang="zh">生死96小时</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
