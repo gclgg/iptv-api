@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251117141350 +0800">
+<tv date="20251117161735 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -1925,6 +1925,12 @@
 	<programme channel="NewTV惊悚悬疑" start="20251117195600 +0800" stop="20251117202600 +0800">
 		<title lang="zh">《八段锦》推荐第42期</title>
 	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251117202600 +0800" stop="20251117215500 +0800">
+		<title lang="zh">地底怪物</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251117215500 +0800" stop="20251117222500 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
 	<channel id="星空卫视">
 		<display-name lang="zh">星空卫视</display-name>
 	</channel>
@@ -3283,6 +3289,12 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251117192700 +0800" stop="20251117204600 +0800">
 		<title lang="zh">扫黑神探</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251117204600 +0800" stop="20251117211600 +0800">
+		<title lang="zh">《八段锦》推荐第42期</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251117211600 +0800" stop="20251117223900 +0800">
+		<title lang="zh">执剑人</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
