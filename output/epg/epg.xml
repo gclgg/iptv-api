@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251117101555 +0800">
+<tv date="20251117122423 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -1910,6 +1910,15 @@
 	<programme channel="NewTV惊悚悬疑" start="20251117143900 +0800" stop="20251117160200 +0800">
 		<title lang="zh">兴安岭猎人传说</title>
 	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251117160200 +0800" stop="20251117162200 +0800">
+		<title lang="zh">健康推荐</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251117162200 +0800" stop="20251117174800 +0800">
+		<title lang="zh">零点杀机</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251117174800 +0800" stop="20251117182800 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
 	<channel id="星空卫视">
 		<display-name lang="zh">星空卫视</display-name>
 	</channel>
@@ -3256,6 +3265,12 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251117151700 +0800" stop="20251117164100 +0800">
 		<title lang="zh">纵横千里之一发千钧</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251117164100 +0800" stop="20251117171100 +0800">
+		<title lang="zh">健康推荐</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251117171100 +0800" stop="20251117184800 +0800">
+		<title lang="zh">皇牌空战</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
