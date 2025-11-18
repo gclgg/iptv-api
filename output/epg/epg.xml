@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251118101609 +0800">
+<tv date="20251118122501 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -1966,6 +1966,12 @@
 	<programme channel="NewTV惊悚悬疑" start="20251118155700 +0800" stop="20251118161700 +0800">
 		<title lang="zh">健康推荐</title>
 	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251118161700 +0800" stop="20251118173800 +0800">
+		<title lang="zh">人类削减计划</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251118173800 +0800" stop="20251118181800 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
 	<channel id="星空卫视">
 		<display-name lang="zh">星空卫视</display-name>
 	</channel>
@@ -3363,6 +3369,12 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251118153800 +0800" stop="20251118164200 +0800">
 		<title lang="zh">大狂蜂：起源</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251118164200 +0800" stop="20251118171200 +0800">
+		<title lang="zh">健康推荐</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251118171200 +0800" stop="20251118181500 +0800">
+		<title lang="zh">蛇形行动</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
