@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251120081851 +0800">
+<tv date="20251120101525 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -1929,6 +1929,12 @@
 	<programme channel="NewTV惊悚悬疑" start="20251120124300 +0800" stop="20251120140200 +0800">
 		<title lang="zh">倩狐之京卫怪谈</title>
 	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251120140200 +0800" stop="20251120144200 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251120144200 +0800" stop="20251120161200 +0800">
+		<title lang="zh">黑楼惊魂</title>
+	</programme>
 	<channel id="星空卫视">
 		<display-name lang="zh">星空卫视</display-name>
 	</channel>
@@ -3527,6 +3533,12 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251120125500 +0800" stop="20251120142300 +0800">
 		<title lang="zh">火线追凶2之爱本无罪</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251120142300 +0800" stop="20251120150300 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251120150300 +0800" stop="20251120163100 +0800">
+		<title lang="zh">火线追凶2之黑色玫瑰</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
