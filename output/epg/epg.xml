@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251122005341 +0800">
+<tv date="20251122030016 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -1869,6 +1869,15 @@
 	<programme channel="NewTV惊悚悬疑" start="20251122075800 +0800" stop="20251122082800 +0800">
 		<title lang="zh">健康推荐新码</title>
 	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251122082800 +0800" stop="20251122093900 +0800">
+		<title lang="zh">蟒山</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251122093900 +0800" stop="20251122100900 +0800">
+		<title lang="zh">健康推荐新码</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251122100900 +0800" stop="20251122114400 +0800">
+		<title lang="zh">男狐聊斋3</title>
+	</programme>
 	<channel id="星空卫视">
 		<display-name lang="zh">星空卫视</display-name>
 	</channel>
@@ -3425,6 +3434,12 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251122070400 +0800" stop="20251122083000 +0800">
 		<title lang="zh">热武青春</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251122083000 +0800" stop="20251122091500 +0800">
+		<title lang="zh">告别煮妇手</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251122091500 +0800" stop="20251122104800 +0800">
+		<title lang="zh">火线追凶2之鹈鹕行动</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
