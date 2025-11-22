@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251122201342 +0800">
+<tv date="20251122221150 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -2322,11 +2322,23 @@
 	<programme channel="NewTV动作电影" start="20251123005300 +0800" stop="20251123022600 +0800">
 		<title lang="zh">宛城之战</title>
 	</programme>
+	<programme channel="NewTV动作电影" start="20251123022600 +0800" stop="20251123031600 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251123031600 +0800" stop="20251123044600 +0800">
+		<title lang="zh">蜀山之万剑封魔</title>
+	</programme>
 	<channel id="NewTV惊悚悬疑">
 		<display-name lang="zh">NewTV惊悚悬疑</display-name>
 	</channel>
 	<programme channel="NewTV惊悚悬疑" start="20251123003900 +0800" stop="20251123020100 +0800">
 		<title lang="zh">狄仁杰之降魔咒</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251123020100 +0800" stop="20251123025200 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251123025200 +0800" stop="20251123042400 +0800">
+		<title lang="zh">变体</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
