@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251123042746 +0800">
+<tv date="20251123061819 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -1854,6 +1854,9 @@
 	<programme channel="NewTV惊悚悬疑" start="20251123102800 +0800" stop="20251123115500 +0800">
 		<title lang="zh">灵雾岛</title>
 	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251123115500 +0800" stop="20251123122500 +0800">
+		<title lang="zh">健康推荐新码</title>
+	</programme>
 	<channel id="星空卫视">
 		<display-name lang="zh">星空卫视</display-name>
 	</channel>
@@ -3416,6 +3419,9 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251123102900 +0800" stop="20251123111900 +0800">
 		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251123111900 +0800" stop="20251123124600 +0800">
+		<title lang="zh">狂怒之阿登战役</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
