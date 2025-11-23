@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251123010323 +0800">
+<tv date="20251123032144 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -1845,6 +1845,15 @@
 	<programme channel="NewTV惊悚悬疑" start="20251123080100 +0800" stop="20251123083100 +0800">
 		<title lang="zh">健康推荐新码</title>
 	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251123083100 +0800" stop="20251123095800 +0800">
+		<title lang="zh">火线追凶2之押解惊魂</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251123095800 +0800" stop="20251123102800 +0800">
+		<title lang="zh">健康推荐新码</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251123102800 +0800" stop="20251123115500 +0800">
+		<title lang="zh">灵雾岛</title>
+	</programme>
 	<channel id="星空卫视">
 		<display-name lang="zh">星空卫视</display-name>
 	</channel>
@@ -3398,6 +3407,15 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251123065300 +0800" stop="20251123082400 +0800">
 		<title lang="zh">大匠春秋之牌坊风云</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251123082400 +0800" stop="20251123090900 +0800">
+		<title lang="zh">告别煮妇手</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251123090900 +0800" stop="20251123102900 +0800">
+		<title lang="zh">山寨大黄蜂</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251123102900 +0800" stop="20251123111900 +0800">
+		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
