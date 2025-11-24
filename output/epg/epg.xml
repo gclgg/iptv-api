@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251124122425 +0800">
+<tv date="20251124141429 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -1950,6 +1950,12 @@
 	<programme channel="NewTV惊悚悬疑" start="20251124174400 +0800" stop="20251124181800 +0800">
 		<title lang="zh">告别煮妇手</title>
 	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251124181800 +0800" stop="20251124194600 +0800">
+		<title lang="zh">猎杀外星人</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251124194600 +0800" stop="20251124201600 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
 	<channel id="星空卫视">
 		<display-name lang="zh">星空卫视</display-name>
 	</channel>
@@ -3305,6 +3311,9 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251124174000 +0800" stop="20251124184700 +0800">
 		<title lang="zh">破千者之天下公敌</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251124184700 +0800" stop="20251124202100 +0800">
+		<title lang="zh">卧虎悍将</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
