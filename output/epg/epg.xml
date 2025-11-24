@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251124201545 +0800">
+<tv date="20251124221201 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -2214,6 +2214,12 @@
 	<programme channel="NewTV动作电影" start="20251125005300 +0800" stop="20251125021400 +0800">
 		<title lang="zh">兰若行者</title>
 	</programme>
+	<programme channel="NewTV动作电影" start="20251125021400 +0800" stop="20251125030400 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251125030400 +0800" stop="20251125043100 +0800">
+		<title lang="zh">另类民兵葛二蛋</title>
+	</programme>
 	<channel id="NewTV惊悚悬疑">
 		<display-name lang="zh">NewTV惊悚悬疑</display-name>
 	</channel>
@@ -2222,6 +2228,9 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20251125015800 +0800" stop="20251125024800 +0800">
 		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251125024800 +0800" stop="20251125041900 +0800">
+		<title lang="zh">公证人之深度危机</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
