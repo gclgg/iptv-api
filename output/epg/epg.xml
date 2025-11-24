@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251124010009 +0800">
+<tv date="20251124031831 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -1923,6 +1923,12 @@
 	<programme channel="NewTV惊悚悬疑" start="20251124081100 +0800" stop="20251124094800 +0800">
 		<title lang="zh">荒野逃生</title>
 	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251124094800 +0800" stop="20251124101800 +0800">
+		<title lang="zh">健康推荐新码</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251124101800 +0800" stop="20251124114300 +0800">
+		<title lang="zh">挑灯斩蛇录</title>
+	</programme>
 	<channel id="星空卫视">
 		<display-name lang="zh">星空卫视</display-name>
 	</channel>
@@ -3251,6 +3257,12 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251124081400 +0800" stop="20251124085900 +0800">
 		<title lang="zh">告别煮妇手</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251124085900 +0800" stop="20251124102100 +0800">
+		<title lang="zh">明城攻略之镇河妖</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251124102100 +0800" stop="20251124111100 +0800">
+		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
