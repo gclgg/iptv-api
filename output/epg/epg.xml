@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251125095811 +0800">
+<tv date="20251125123154 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -1974,6 +1974,18 @@
 	<programme channel="NewTV惊悚悬疑" start="20251125155600 +0800" stop="20251125162600 +0800">
 		<title lang="zh">健康推荐新码</title>
 	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251125162600 +0800" stop="20251125175000 +0800">
+		<title lang="zh">巨兽来袭3</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251125175000 +0800" stop="20251125181300 +0800">
+		<title lang="zh">告别煮妇手</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251125181300 +0800" stop="20251125194400 +0800">
+		<title lang="zh">生死下一秒</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251125194400 +0800" stop="20251125201400 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
 	<channel id="星空卫视">
 		<display-name lang="zh">星空卫视</display-name>
 	</channel>
@@ -3359,6 +3371,15 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251125155400 +0800" stop="20251125171700 +0800">
 		<title lang="zh">重案行动之连环凶杀</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251125171700 +0800" stop="20251125180200 +0800">
+		<title lang="zh">告别煮妇手</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251125180200 +0800" stop="20251125193800 +0800">
+		<title lang="zh">打过长江去</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251125193800 +0800" stop="20251125200800 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
