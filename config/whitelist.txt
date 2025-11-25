@@ -2,6 +2,10 @@
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
-
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw$
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw$
+凤凰中文,http://j.s.bkpcp.top/js/fhzw$
+cctv-13,http://221.13.235.159:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$
 https://raw.githubusercontent.com/gclgg/tv/refs/heads/main/itvlist.txt 
 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+http://221.13.235.159:9901
