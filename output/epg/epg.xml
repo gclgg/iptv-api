@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251126085907 +0800">
+<tv date="20251126123213 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -1962,6 +1962,18 @@
 	<programme channel="NewTV惊悚悬疑" start="20251126154800 +0800" stop="20251126161800 +0800">
 		<title lang="zh">健康推荐新码</title>
 	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251126161800 +0800" stop="20251126174200 +0800">
+		<title lang="zh">怪兽2：史前异种</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251126174200 +0800" stop="20251126181200 +0800">
+		<title lang="zh">健康推荐新码</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251126181200 +0800" stop="20251126194000 +0800">
+		<title lang="zh">狄仁杰之通天赤狐</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251126194000 +0800" stop="20251126201000 +0800">
+		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
 	<channel id="星空卫视">
 		<display-name lang="zh">星空卫视</display-name>
 	</channel>
@@ -3392,6 +3404,15 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251126151700 +0800" stop="20251126170200 +0800">
 		<title lang="zh">追凶十九年</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251126170200 +0800" stop="20251126174600 +0800">
+		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251126174600 +0800" stop="20251126190100 +0800">
+		<title lang="zh">狄仁杰之伏妖篇</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251126190100 +0800" stop="20251126201500 +0800">
+		<title lang="zh">维和女警：暴力安全区</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
