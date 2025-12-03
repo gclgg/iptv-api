@@ -12,8 +12,8 @@ Category: 📺央视频道, Name: CCTV-10, Total: 119, Valid: 56, Valid Percent:
 Category: 📺央视频道, Name: CCTV-11, Total: 130, Valid: 64, Valid Percent: 49.23%, Whitelist: 6, IPv4: 0, IPv6: 124, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-12, Total: 127, Valid: 61, Valid Percent: 48.03%, Whitelist: 7, IPv4: 0, IPv6: 120, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-13, Total: 109, Valid: 39, Valid Percent: 35.78%, Whitelist: 7, IPv4: 0, IPv6: 102, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 🌊港·澳·台, Name: 凤凰中文, Total: 86, Valid: 20, Valid Percent: 23.26%, Whitelist: 3, IPv4: 1, IPv6: 82, Min Delay: 0.1 ms, Max Speed: 0.08 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 🌊港·澳·台, Name: 凤凰资讯, Total: 97, Valid: 36, Valid Percent: 37.11%, Whitelist: 0, IPv4: 1, IPv6: 96, Min Delay: 0.1 ms, Max Speed: 0.06 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: 🌊港·澳·台, Name: 凤凰中文, Total: 86, Valid: 20, Valid Percent: 23.26%, Whitelist: 3, IPv4: 1, IPv6: 82, Min Delay: 0.1 ms, Max Speed: 0.79 M/s, Avg Speed: 0.04 M/s, Max Resolution: 1920x1080
+Category: 🌊港·澳·台, Name: 凤凰资讯, Total: 97, Valid: 36, Valid Percent: 37.11%, Whitelist: 0, IPv4: 1, IPv6: 96, Min Delay: 0.1 ms, Max Speed: 0.79 M/s, Avg Speed: 0.02 M/s, Max Resolution: 1920x1080
 Category: 🌊港·澳·台, Name: 凤凰香港, Total: 71, Valid: 15, Valid Percent: 21.13%, Whitelist: 0, IPv4: 0, IPv6: 71, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🌊港·澳·台, Name: 凤凰卫视, Total: 6, Valid: 4, Valid Percent: 66.67%, Whitelist: 0, IPv4: 0, IPv6: 6, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: ☘️湖北频道, Name: 湖北综合, Total: 3, Valid: 3, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
@@ -32,7 +32,7 @@ Category: ☘️湖北频道, Name: 十堰新闻, Total: 4, Valid: 4, Valid Perc
 Category: ☘️湖北频道, Name: 荆门新闻综合, Total: 8, Valid: 8, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 8, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🎬电影频道, Name: CHC家庭影院, Total: 50, Valid: 9, Valid Percent: 18.00%, Whitelist: 0, IPv4: 0, IPv6: 50, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🎬电影频道, Name: CHC动作电影, Total: 55, Valid: 17, Valid Percent: 30.91%, Whitelist: 0, IPv4: 0, IPv6: 55, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 🎬电影频道, Name: CHC高清电影, Total: 7, Valid: 4, Valid Percent: 57.14%, Whitelist: 0, IPv4: 7, IPv6: 0, Min Delay: 10004 ms, Max Speed: 0.35 M/s, Avg Speed: 0.11 M/s, Max Resolution: 1920x1080
+Category: 🎬电影频道, Name: CHC高清电影, Total: 6, Valid: 3, Valid Percent: 50.00%, Whitelist: 0, IPv4: 6, IPv6: 0, Min Delay: 10005 ms, Max Speed: 0.04 M/s, Avg Speed: 0.03 M/s, Max Resolution: 1920x1080
 Category: 🎬电影频道, Name: 淘剧场, Total: 5, Valid: 2, Valid Percent: 40.00%, Whitelist: 0, IPv4: 0, IPv6: 5, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🎬电影频道, Name: 淘娱乐, Total: 5, Valid: 2, Valid Percent: 40.00%, Whitelist: 0, IPv4: 0, IPv6: 5, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🎬电影频道, Name: 淘电影, Total: 17, Valid: 17, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 17, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
@@ -43,7 +43,7 @@ Category: 🎬电影频道, Name: 纬来电影, Total: 33, Valid: 0, Valid Perce
 Category: 🎬电影频道, Name: 靖天映画, Total: 7, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 7, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 🎬电影频道, Name: 靖天戏剧, Total: 12, Valid: 1, Valid Percent: 8.33%, Whitelist: 0, IPv4: 0, IPv6: 12, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🎬电影频道, Name: 经典电影, Total: 9, Valid: 6, Valid Percent: 66.67%, Whitelist: 0, IPv4: 0, IPv6: 9, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 🎬电影频道, Name: IPTV经典电影, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 489 ms, Max Speed: 0.11 M/s, Avg Speed: 0.06 M/s, Max Resolution: 1920x1080
+Category: 🎬电影频道, Name: IPTV经典电影, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 411 ms, Max Speed: 0.22 M/s, Avg Speed: 0.12 M/s, Max Resolution: 1920x1080
 Category: 🎬电影频道, Name: 天映经典, Total: 36, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 36, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 🎬电影频道, Name: 无线星河, Total: 6, Valid: 1, Valid Percent: 16.67%, Whitelist: 0, IPv4: 0, IPv6: 6, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🎬电影频道, Name: 星空卫视, Total: 6, Valid: 1, Valid Percent: 16.67%, Whitelist: 0, IPv4: 0, IPv6: 6, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
