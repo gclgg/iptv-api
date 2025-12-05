@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251205010943 +0800">
+<tv date="20251205062439 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -1959,6 +1959,18 @@
 	<programme channel="NewTV惊悚悬疑" start="20251205074800 +0800" stop="20251205082800 +0800">
 		<title lang="zh">营养健康人生</title>
 	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251205082900 +0800" stop="20251205094600 +0800">
+		<title lang="zh">侏罗纪崛起</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251205094600 +0800" stop="20251205103600 +0800">
+		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251205103700 +0800" stop="20251205114900 +0800">
+		<title lang="zh">蟒山</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251205114900 +0800" stop="20251205123300 +0800">
+		<title lang="zh">伏湿丸</title>
+	</programme>
 	<channel id="星空卫视">
 		<display-name lang="zh">星空卫视</display-name>
 	</channel>
@@ -3335,6 +3347,15 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251205080500 +0800" stop="20251205084900 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251205084900 +0800" stop="20251205102000 +0800">
+		<title lang="zh">倾城</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251205102000 +0800" stop="20251205110000 +0800">
+		<title lang="zh">营养健康人生</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251205110000 +0800" stop="20251205123000 +0800">
+		<title lang="zh">浴血雁门关</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
