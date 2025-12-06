@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251206010603 +0800">
+<tv date="20251206062211 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -1866,6 +1866,18 @@
 	<programme channel="NewTV惊悚悬疑" start="20251206075500 +0800" stop="20251206082500 +0800">
 		<title lang="zh">健康推荐渠道</title>
 	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251206082600 +0800" stop="20251206095600 +0800">
+		<title lang="zh">黑楼惊魂</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251206095600 +0800" stop="20251206102600 +0800">
+		<title lang="zh">健康推荐渠道</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251206102700 +0800" stop="20251206115900 +0800">
+		<title lang="zh">鬼吹灯之湘西密藏</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251206115900 +0800" stop="20251206124300 +0800">
+		<title lang="zh">伏湿丸</title>
+	</programme>
 	<channel id="星空卫视">
 		<display-name lang="zh">星空卫视</display-name>
 	</channel>
@@ -3347,6 +3359,12 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251206081300 +0800" stop="20251206094000 +0800">
 		<title lang="zh">超级风暴</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251206094000 +0800" stop="20251206103100 +0800">
+		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251206103100 +0800" stop="20251206120200 +0800">
+		<title lang="zh">英雄泪</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
