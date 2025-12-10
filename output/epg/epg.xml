@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251210011107 +0800">
+<tv date="20251210062516 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -2130,6 +2130,18 @@
 	<programme channel="NewTV动作电影" start="20251210065900 +0800" stop="20251210083200 +0800">
 		<title lang="zh">永春白鹤拳之擎天画卷</title>
 	</programme>
+	<programme channel="NewTV动作电影" start="20251210083200 +0800" stop="20251210090200 +0800">
+		<title lang="zh">健康推荐渠道</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251210090200 +0800" stop="20251210104400 +0800">
+		<title lang="zh">终极胜利</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251210104400 +0800" stop="20251210113400 +0800">
+		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251210113400 +0800" stop="20251210131800 +0800">
+		<title lang="zh">深海越狱</title>
+	</programme>
 	<channel id="NewTV惊悚悬疑">
 		<display-name lang="zh">NewTV惊悚悬疑</display-name>
 	</channel>
@@ -2156,6 +2168,15 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20251210080200 +0800" stop="20251210083200 +0800">
 		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251210083200 +0800" stop="20251210100100 +0800">
+		<title lang="zh">民间摆渡人</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251210100100 +0800" stop="20251210104000 +0800">
+		<title lang="zh">男士营养健康推荐</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251210104000 +0800" stop="20251210120900 +0800">
+		<title lang="zh">狄仁杰之通天赤狐</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
