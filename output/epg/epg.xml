@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251215013247 +0800">
+<tv date="20251215064103 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -2109,6 +2109,15 @@
 	<programme channel="NewTV动作电影" start="20251215075100 +0800" stop="20251215091700 +0800">
 		<title lang="zh">不死间谍</title>
 	</programme>
+	<programme channel="NewTV动作电影" start="20251215091700 +0800" stop="20251215100700 +0800">
+		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251215100700 +0800" stop="20251215113400 +0800">
+		<title lang="zh">血战狙击岭</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251215113400 +0800" stop="20251215120400 +0800">
+		<title lang="zh">健康推荐渠道</title>
+	</programme>
 	<channel id="NewTV惊悚悬疑">
 		<display-name lang="zh">NewTV惊悚悬疑</display-name>
 	</channel>
@@ -2135,6 +2144,18 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20251215075200 +0800" stop="20251215082200 +0800">
 		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251215082200 +0800" stop="20251215094200 +0800">
+		<title lang="zh">卸岭之地下惊龙</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251215094200 +0800" stop="20251215101200 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251215101200 +0800" stop="20251215113700 +0800">
+		<title lang="zh">挑灯斩蛇录</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251215113700 +0800" stop="20251215121600 +0800">
+		<title lang="zh">男士营养健康推荐</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
