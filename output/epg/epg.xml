@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251219013650 +0800">
+<tv date="20251219064645 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -2367,6 +2367,18 @@
 	<programme channel="NewTV动作电影" start="20251219065100 +0800" stop="20251219081200 +0800">
 		<title lang="zh">机器人战警</title>
 	</programme>
+	<programme channel="NewTV动作电影" start="20251219081200 +0800" stop="20251219084200 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251219084200 +0800" stop="20251219100900 +0800">
+		<title lang="zh">长安侠影之剑客风云</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251219100900 +0800" stop="20251219104800 +0800">
+		<title lang="zh">男士营养健康推荐</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251219104800 +0800" stop="20251219122400 +0800">
+		<title lang="zh">军火厂</title>
+	</programme>
 	<channel id="NewTV惊悚悬疑">
 		<display-name lang="zh">NewTV惊悚悬疑</display-name>
 	</channel>
@@ -2387,6 +2399,21 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20251219061400 +0800" stop="20251219080300 +0800">
 		<title lang="zh">沉默的15分钟 中文版</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251219080300 +0800" stop="20251219083300 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251219083300 +0800" stop="20251219095000 +0800">
+		<title lang="zh">侏罗纪崛起</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251219095000 +0800" stop="20251219102900 +0800">
+		<title lang="zh">男士营养健康推荐</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251219102900 +0800" stop="20251219115200 +0800">
+		<title lang="zh">变异危机</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251219115200 +0800" stop="20251219122200 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
