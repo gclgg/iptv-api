@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251230012754 +0800">
+<tv date="20251230064132 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -2151,6 +2151,18 @@
 	<programme channel="NewTV动作电影" start="20251230080600 +0800" stop="20251230091000 +0800">
 		<title lang="zh">大狂蜂：起源</title>
 	</programme>
+	<programme channel="NewTV动作电影" start="20251230091000 +0800" stop="20251230094000 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251230094000 +0800" stop="20251230112100 +0800">
+		<title lang="zh">游侠</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251230112100 +0800" stop="20251230115100 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251230115100 +0800" stop="20251230130600 +0800">
+		<title lang="zh">铁血：生死隧战</title>
+	</programme>
 	<channel id="NewTV惊悚悬疑">
 		<display-name lang="zh">NewTV惊悚悬疑</display-name>
 	</channel>
@@ -2177,6 +2189,18 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20251230065400 +0800" stop="20251230081700 +0800">
 		<title lang="zh">重案行动之连环凶杀（普通话版）</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251230081700 +0800" stop="20251230084700 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251230084700 +0800" stop="20251230101200 +0800">
+		<title lang="zh">英雄之战</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251230101200 +0800" stop="20251230104200 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251230104200 +0800" stop="20251230121600 +0800">
+		<title lang="zh">陆小凤传奇之幽灵山庄</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
