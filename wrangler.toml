@@ -1,0 +1,4 @@
+  [build]
+  upload_rules = [
+    { glob = "utils/ip_checker/data/qqwry.ipdb", ignore = true }
+  ]
