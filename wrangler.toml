@@ -1,4 +1,13 @@
-  [build]
-  upload_rules = [
-    { glob = "utils/ip_checker/data/qqwry.ipdb", ignore = true }
-  ]
+# 必须包含的 Pages 基础配置
+[pages_build]
+output_dir = "./"  # 指定构建输出目录（根据项目实际情况调整）
+
+# 文件排除规则
+[build]
+upload_rules = [
+  { glob = "utils/ip_checker/data/qqwry.ipdb", ignore = true }
+]
+
+# 可选：自定义构建命令（如果没有构建步骤可删除）
+[build.upload]
+command = "echo 'No build needed'"
