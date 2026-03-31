@@ -23,7 +23,7 @@
 â¤ï¸ä¸æ¹å«è§4K,http://rihou.cc:555/tv/ä¸æ¹å«è§4K
 â¤ï¸æ·±å³å«è§4K,http://rihou.cc:555/tv/szws
 â¤ï¸åäº¬å«è§4K,http://rihou.cc:555/tv/åäº¬å«è§4K
-â¤ï¸å¹¿ä¸4Kè¶é«æ¸
+â¤ï¸å¹¿ä¸4K,http://38.75.136.137:98/gslb/dsdqpub/gdtvs3.m3u8?auth=testpub
 â¤ï¸åå·å«è§4K,http://rihou.cc:555/tv/åå·å«è§4K 
 â¤ï¸å±±ä¸å«è§4K 
 â¤ï¸æ²³åå«è§4K,http://rihou.cc:555/tv/æ²³åå«è§4K
@@ -39,7 +39,7 @@
 æ·å§åº 
 æ·Baby 
 æ·èå®  
-ä¸­åé»å½±é »é,http://tl.061833.xyz/tl/null-6
+ä¸­åé»å½±é »é
 CHCå¨ä½çµå½±,http://rihou.cc:555/tv/CHCå¨ä½çµå½±
 CHCå½±è¿·çµå½±,http://rihou.cc:555/tv/CHCå½±è¿·çµå½±
 CHCå®¶åº­å½±é¢,http://rihou.cc:555/tv/CHCå®¶åº­å½±é¢
@@ -989,18 +989,16 @@ ICSé¢é,http://218.78.179.62:7777/tsfile/live/1033_1.m3u8?key=txiptv&pla
 ð¥æ¸¯å°çµå½±,#genre#
 
 ä¸­åé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=61
-ç¾äºçµå½±,http://tl.061833.xyz/tl/null-5
-ç¾äºçµå½±,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
+ç¾äºçµå½±
 NOWçè°·,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUpn7Lrhdbt8W042CxwTlNwHQBHxAorPl6WG505axByLsqm_6uwwf1TFr09ekS-WoJxI9O52n-XjCSzld0iXNILyGsupIIoJAwHj6sU5fRMWkT8lXOjk8dzTjEAFkg7T7lkFrggmhPUEnMV8uzxJHoqLE4Z9kmjzi7bsfb2fGQXfcylFnj-ccOYGV6y8bKDUuf22WZ575UidyzCiYfIdoV-yo.m3u8?u=1756878715
 NOWæå½±
 PopCçµå½±,http://mytvsuper.webn.cc:2052/stream/mytv/popc/master.m3u8?u=yhy&p=447c04d6fbd1b6db532939627946d3ee4532fbe69a842ccfe439df51e0fff326
-PopCçµå½±,http://tl.061833.xyz/tl/popc
+
 å¤©æ é¢é,http://o11.163189.xyz/stream/live/typd/
 å¤©æ ç»å¸,http://o11.163189.xyz/stream/live/ccm/
 æç©ºå«è§,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$æµæ±/ç»å´/çµä¿¡
 æç©ºå«è§,http://xhyx.gz.cn:1698/hls/35/index.m3u8$å¹¿ä¸/æ­é³/çµä¿¡
 æç©ºå½é
-
 çº¬æ¥çµå½±,http://rihou.cc:555/tv/çº¬æ¥çµå½±
 ä¸æ£®çµå½±,http://rihou.cc:555/tv/ä¸æ£®çµå½± 
 ä¸æ£®æ´ç,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyueGr-6I5WurXyVzCPErAn1bIY0Xo0oD4WTTmWvbwk0WlRLAiSKjvvk1qlTgn_rvKqmndIlkvXOsgb2pLGqYWlBY4bum9lzyFDqrQV09sm9mH8Norh0gOkpeKmnKhs7l0EGvOTpy8B5LkIDy-zcVjSoBzBiSy2SqAL9FF4LqSM_pIZGYBuWkuHd68RQGk25yig.m3u8?u=1756878715 
@@ -1022,33 +1020,25 @@ PopCçµå½±,http://tl.061833.xyz/tl/popc
 AXNTaiwan   
 CINEMAX 
 ROCK Action,http://iptv.4666888.xyz/iptv2A.php?id=50#http://tl.061833.xyz/tl/rockaction
-ROCKç»¼èºå¨±ä¹ 
-AXN http://tl.061833.xyz/tl/axn
-HBO,https://hls.iill.top/api/HBO/index.m3u8
-HBO Hits,https://hls.iill.top/api/HBO-Hits/index.m3u8
-HBO Family,https://hls.iill.top/api/HBO-Family/index.m3u8
-HBO Signature,https://hls.iill.top/api/HBO-Signature/index.m3u8
+ 
 
-CCTV6,http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0
+CCTV6 
 1905æµéå²æ,https://cdn.jdshipin.com/1905.php
-1905ç¯çç»å¸,http://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5
+1905ç¯çç»å¸ å¤±æhttp://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5
 æ¾³é¨è²è± 
 å¤å°çµå½±,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$æµæ±/ç»å´/çµä¿¡
 å³¨ççµå½±,http://112.19.31.13:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 å³¨ççµå½±,http://118.122.144.115:8888/newlive/live/hls/32/live.m3u8$åå·çµä¿¡éåº
 å³¨ççµå½±,http://183.220.20.17:4321/udp/239.11.0.11:5140$åå·ç§»å¨
-æ¹åçµå½±,http://113.241.133.223:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-æ²³åä¹¡æ,http://115.55.27.184:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0#http://zmgd.zyrnet.com:8888/hls/28/index.m3u8
-
+æ¹åçµå½±,http://218.77.84.102:85/tsfile/live/149/2005_1.m3u8?key=txiptv
+æ²³åä¹¡æ,http://182.119.212.129:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&down=1
+æ²³åä¹¡æ,http://zmgd.zyrnet.com:8888/hls/28/index.m3u8
+è°è§£å§åº,http://39.165.39.49:85/tsfile/live/1124_1.m3u8?key=txiptv&playlive=0&authid=0
 éæ¸©ç»å¸,http://rihou.cc:555/tv/éæ¸©ç»å¸
-å¨ä½å¤§ç https://yylunbo.ottiptv.cc/yy/1382736809 
 æ°è§è§HD,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
 æ°è§è§HD,http://gat.bkpcp.top/ymg.php?id=mlzq
 æ°è§è§HD,http://t.061899.xyz/tl/dq.php?id=mlzq
-
-
 åæ°çµå½±,http://hmfs.f3322.net:3388/hls/40/index.m3u8
-
 ä¸­ççæ´»,http://zmgd.zyrnet.com:8888/hls/20/index.m3u8$éå·/ç§»å¨éåº
 éµæ°åå§,http://rihou.cc:555/tv/[FY]éµæ°åå§
 éµæ°çµå½±,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
@@ -1138,6 +1128,31 @@ TVBSæ°é»,http://rihou.cc:555/tv/[FY]tvbSæ°é»
 å¬è§,http://211.72.174.95:8116/0.ts$åçè§£ç æä½³
 æ°è§,http://211.72.174.95:8115/0.ts$åçè§£ç æä½³
 å°è§,http://211.72.174.95:8112/0.ts$åçè§£ç æä½³
+ä¸­è§æ°é»,http://nctcpc.com:38981/stream/channelid/1755015946?ticket=ff77595a86bf2548d5008a04302d5ccf246c4fb2&profile=pass
+å°è¦æ°è,http://nctcpc.com:38981/stream/channelid/1392529866?ticket=20f21d79d7b692600b382c330c643c4b931e7b44&profile=pass
+è¯è¦æ°è,http://nctcpc.com:38981/stream/channelid/320561478?ticket=7e0c7d7058d07679306b3fb1abc441f82d6da587&profile=pass
+TaiwanPlus,http://nctcpc.com:38981/stream/channelid/201856179?ticket=c54aba4f1ec46bf6b1b9aa96edfb0d32c8eaf290&profile=pass
+ä¸­è¦èéå°,http://nctcpc.com:38981/stream/channelid/1285813917?ticket=d61f5031324da74604c2fcda5d4746aa2ef98228&profile=pass
+å¬è¦ PTS,http://nctcpc.com:38981/stream/channelid/2131319261?ticket=02ffaa74b6e741aa10cde9d1d79c77b922bbde2a&profile=pass
+åä½æ°æé»è¦å°,http://nctcpc.com:38981/stream/channelid/2104211877?ticket=ed53b7695520e155f48f273b078e593bf11a82d7&profile=pass
+å°è¦,http://nctcpc.com:38981/stream/channelid/1061269580?ticket=4b5c23daf556589608342630f30f493cf60be5f7&profile=pass
+å°è¦ç¶å,http://nctcpc.com:38981/stream/channelid/1044713361?ticket=dd4bd0d554fa94ade93e032142db13d36f31afd5&profile=pass
+å°è¦è²¡ç¶,http://nctcpc.com:38981/stream/channelid/509783080?ticket=7b42cacaab69c586551f3c809a172111b5b60c96&profile=pass
+å°å¬è¦,http://nctcpc.com:38981/stream/channelid/352036757?ticket=348182605f4fcc235bf9ff0d0531e03e9575ef6c&profile=pass
+æ°è¦,http://nctcpc.com:38981/stream/channelid/783181249?ticket=58814ce48d9561070cbc5696338c5e7dd416efd0&profile=pass
+æ°è¦å°ç£,http://nctcpc.com:38981/stream/channelid/1243774991?ticket=0cd0396ef05ea4b12a0def6019dff1e5b1226bd6&profile=pass
+æ°è¦æ°è,http://nctcpc.com:38981/stream/channelid/1323392111?ticket=bbf9a9c0dcbbf102cc33bc4dbd71f3a44c9ddc3c&profile=pass
+æ°è¦ç¬¬ä¸,http://nctcpc.com:38981/stream/channelid/859905572?ticket=44729f776de93e70cd1481ce4f434f15e89f0762&profile=pass
+è¯è¦CTS,http://nctcpc.com:38981/stream/channelid/122114341?ticket=ac282ee9ea130e5f72acc9cbe278dfc9549a0118&profile=pass
+è¯è¦æè²é«è²æå,http://nctcpc.com:38981/stream/channelid/1850091127?ticket=d8345832c6ed8d534f5e0096c749532ace397e58&profile=pass
+
+ä¸­è¦,http://nctcpc.com:38981/stream/channelid/475201081?ticket=15621385187ab928f871153cb33486ee6a8fd47e&profile=pass
+
+ä¸­è¦ç¶å¸,http://nctcpc.com:38981/stream/channelid/245334301?ticket=59ddc695b9c4ba39c26c370f54fcb79cacac2f3c&profile=pass
+å¬è¦å°èª,http://nctcpc.com:38981/stream/channelid/1615968811?ticket=86717a29e28f5da6ecd45719f5808ac2b057e106&profile=pass
+åæé »é1,http://nctcpc.com:38981/stream/channelid/882971982?ticket=e90f48f2bf1b347a44f59e4ea281f096edc3422e&profile=pass
+åæé »é2,http://nctcpc.com:38981/stream/channelid/210589410?ticket=ecbb5a2d25ad8302c20f7ca05958618356786b33&profile=pass
+å®¢å®¶é»è¦,http://nctcpc.com:38981/stream/channelid/1775057655?ticket=71f3dffb24f54c31dc1f01e7b74b7ee253767112&profile=pass
 
 æ°è¦ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=46
 TVBSç²¾é,http://iptv.4666888.xyz/iptv2A.php?id=47
