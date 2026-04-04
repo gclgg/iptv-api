@@ -14,6 +14,7 @@
 ä¸­å½å¤©æ°,http://plex.home.yulei.online:9999/rtp/226.0.2.103:8736$å±±è¥¿èé
 æ¯æ¥ç»æµ,http://swiftplay.hxkjmedia.com/tv/spbW.m3u8
 æ¾æ¹æ¯åº,https://play-a2.quklive.com/live/1765245429980053.m3u8
+æ¢ç´æ­ä¸¨å¨âä¸çä¹å·âç å³°çæ¥åºæ¥è½æåé£äºéä¼,https://play-a2.quklive.com/live/1732443163041173.m3u8
 â¤ï¸CCTV4K,http://111.170.156.74:3344/å¤®è§/cctv.php?id=cctv4k#http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub 
 â¤ï¸CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 â¤ï¸CCTV16-4K,http://74.91.26.218:82/live/cctv16hd.m3u8
@@ -182,7 +183,7 @@ CCTVå«çå¥åº·,http://rihou.cc:555/tv/CCTVå«çå¥åº·
 å±±ä¸å«è§,https://d.0j7.cn/K59RLdA
 å¤©æ´¥å«è§,https://d.0j7.cn/Af7Q0
 åæå«è§,http://114.241.111.4:85/tsfile/live/47/1047_1.m3u8?key=txiptv  
-éè¥¿å«è§,https://d.0j7.cn/PQweS  
+éè¥¿å«è§,http://103.45.128.46:2001/jmb/IPTV.php?id=éè¥¿å«è§ 
 å®å¤å«è§,http://111.56.90.5/000000000000/1000000002000031451/1.m3u8  
 åèå¤å«è§,http://k.061899.xyz/k.php?id=nmgws   
 äºåå«è§,http://111.56.90.5/000000000000/5000000011000031120/1.m3u8  
@@ -196,7 +197,7 @@ CCTVå«çå¥åº·,http://rihou.cc:555/tv/CCTVå«çå¥åº·
 å»¶è¾¹å«è§,http://42.49.128.211:85/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&down=1
 ä¸æ²å«è§,https://oon.nz/r/imD
 æµ·å³¡å«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hxws
-åæå«è§,http://stream.snrtv.com/sxbc-nl-dHIUZ6.m3u8
+åæå«è§,http://stream.snrtv.com/sxbc-nl-gtzN09.m3u8
 å¦é¨å«è§,http://rihou.cc:555/tv/å¦é¨å«è§
 
 CETV1,http://111.56.90.5/000000000000/5000000002000002652/1.m3u8
@@ -1103,8 +1104,8 @@ TVBS,http://rihou.cc:555/tv/TVBS1
 TVBSæ°é»,http://rihou.cc:555/tv/[FY]tvbSæ°é»
 éæ°é»,http://rihou.cc:555/tv/éæ°é»
 æ°è§æ°é»,http://rihou.cc:555/tv/æ°è§æ°é»
-ä¸­è§æ°é»,http://nctcpc.com:38981/stream/channelid/1755015946?ticket=ff77595a86bf2548d5008a04302d5ccf246c4fb2&profile=pass
-å°è¦æ°è,http://nctcpc.com:38981/stream/channelid/1392529866?ticket=20f21d79d7b692600b382c330c643c4b931e7b44&profile=pass
+ä¸­è§æ°é»,http://rihou.cc:555/tv/[Hk]ä¸­è§æ°é» 
+å°è¦æ°è 
 
 æ°è§æ°é»,http://211.72.174.95:8117/0.ts$åçè§£ç æä½³
 ä¸­è§,http://211.72.174.95:8113/0.ts$åçè§£ç æä½³
@@ -1113,15 +1114,7 @@ TVBSæ°é»,http://rihou.cc:555/tv/[FY]tvbSæ°é»
 æ°è§,http://211.72.174.95:8115/0.ts$åçè§£ç æä½³
 å°è§,http://211.72.174.95:8112/0.ts$åçè§£ç æä½³
 
-ä¸­è¦èéå°,http://nctcpc.com:38981/stream/channelid/1285813917?ticket=d61f5031324da74604c2fcda5d4746aa2ef98228&profile=pass
-å°è¦,http://nctcpc.com:38981/stream/channelid/1061269580?ticket=4b5c23daf556589608342630f30f493cf60be5f7&profile=pass
-å°è¦ç¶å,http://nctcpc.com:38981/stream/channelid/1044713361?ticket=dd4bd0d554fa94ade93e032142db13d36f31afd5&profile=pass
-å°è¦è²¡ç¶,http://nctcpc.com:38981/stream/channelid/509783080?ticket=7b42cacaab69c586551f3c809a172111b5b60c96&profile=pass
  
-
-ä¸­è¦,http://nctcpc.com:38981/stream/channelid/475201081?ticket=15621385187ab928f871153cb33486ee6a8fd47e&profile=pass
-
-ä¸­è¦ç¶å¸,http://nctcpc.com:38981/stream/channelid/245334301?ticket=59ddc695b9c4ba39c26c370f54fcb79cacac2f3c&profile=pass
  
 
 æ°è¦ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=46
@@ -1618,7 +1611,95 @@ HDé³ä¹,https://lhttp.qingting.fm/live/15318341/64k.mp3
 China Plus Radio,https://sk.cri.cn/am846.m3u8
 HITFMå½éæµè¡é³ä¹,https://sk.cri.cn/887.m3u8
 
-ðï¸é¢çº¿çµå½± #genre#
+ðç´æ­ä¸­å½,#genre#
+ç´æ­ä¸­å½ç²¾ç¼,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
+çèæ¦ç,https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8
+,https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
+å®å¾½é»å±±å§ä¿¡æ°é,https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
+å®å¾½é»å±±é»äºå§äºå³°,https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8
+å®å¾½é»å±±åæé¡¶,https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
+å®å¾½é»å±±å§ä¿¡å³°,https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
+å«éæ²é£æ¯åºå¤©çå±±ç»çæ é,https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
+åäº¬å¤åæ°´é,https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
+æé½,https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
+ç¦å»ºæ­¦å¤·å±±çå¥³å³°,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
+çèå®è¥¿,https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
+çèå°å·ä¸­å±±æ¡¥,https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
+å¹¿ä¸ç½æ±æ¹,https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
+å¹¿ä¸ç½æ±æ¹,https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
+å¹¿ä¸ç¦ç°çº¢æ æ,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
+å¹¿ä¸æ±å°¾,https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
+å¹¿å·çµè§å¡,https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
+è´µå·çå´ä¹å¸ä¸å³°æ,https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
+æ²³åæ²§å·,https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
+æ²³åé¯é¸äº¬å¨æ¹,https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
+æ²³åé¯é¸äº¬å¨æ¹,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+æ²³åéå±±å²­,https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
+æ²³åèé¾å¤´,https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
+æ²³ååå·èè¡,https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
+æ²³ååå¤§æ¸¯æ¹¿å°,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+æ²³ååå¤§æ¸¯æ¹¿å°,https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
+æ²³åç§¦çå²,https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
+æ²³åå¡ç½å,https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
+æ²³åçº¢ç³å³¡,https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
+æ²³åæµå¿å¤å,https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
+æ²³åé¾é¨ç³çª,https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
+æ²³åå¹³é¡¶å±±,https://gcalic.v.myalicdn.com/gc/xjtcmys_1/index.m3u8
+æ²³åä¿¡é³,https://gcalic.v.myalicdn.com/gc/xjtcdgs_1/index.m3u8
+æ²³åæ°¸åå¸æ¥ææ¹,https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
+é»é¾æ±éè¹æ¡¥,https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
+é»é¾æ±èåå¿,https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8
+æ¹åå´å±±,https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
+æ¹åå¼ å®¶çå°ååé,https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
+é»å±±é£æ¥ç³,https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
+é»å±±æ¢¦ç¬è±ç,https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
+é»å±±æäºäº­,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
+é»å±±å§äºå³°,https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+é»å±±è¥¿æµ·å¤§å³¡è°·,https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
+åæåå±±å¬å­,https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
+åæä¸´æ±é¨å¤§æ¡¥,https://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8
+åææ±éå±±,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
+æ±èæ é¡å¤§å§é¢,https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
+æ±èæ é¡é¼å¤´æ¸,https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
+æ±èå¾å·ä¹å¤,https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
+ä¸½æ±å¤åä¸å¤æ¥¼é¥æçé¾éªå±±,https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
+é¨æº,https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
+åäº¬çæ­¦æ¹å¬å­,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
+åèå¤ä¹å®¡æè¨æä¹èèå¤éåå¬å­,https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
+ç¥è¿å±±,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
+éå²,https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8
+å±±ä¸è¶µçªæ³,https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
+å±±è¥¿å¤§åé¼æ¥¼,https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
+å±±è¥¿æå,https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
+éè¥¿ä¹¾éµæ¯åº,https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
+éè¥¿éè¯å³å±±ç³å·æ²³é£æ¯åº,https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
+æ²é³,https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8
+åå·ç¯çä¸­å¿,https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
+åå·å¤©åºçç«å¡,https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
+å¤©æ´¥æµ·æ²³,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
+æä¹¡å°,https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
+æªç¥,https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
+è¥¿å®å¤§éå¡,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
+è¥¿èæè,https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
+è¥¿èé²æè²å­£æå±±,https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
+è¥¿èé£æ²,https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
+è¥¿åççº³,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+æ°çå¤©å±±å¤©æ± ,https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
+çæ­¦æ¹,https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
+äºåä¿å±±,https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
+äºåä¿å±±,https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
+äºåçº¢æ²³,https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
+äºåææ,https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
+äºåä¸½æ±çé¾éªå±±èç¸,https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
+äºååçå¤§éå¡,https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
+äºåæ®æ´±,https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
+äºåæ éå±±æ¨±è±è°·,https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
+äºåé©¿è¶é©¬å¤é,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
+äºåçé¾éªå±±,https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
+æµæ±èå±±,https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
+ 
+éåºæå­å,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
+ç ç©æçå³°,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
 
 
 
