@@ -220,7 +220,6 @@ CETV4,http://zmgd.zyrnet.com:8888/hls/70/index.m3u8
 
  
 ðºä¼è´¨IPTV,#genre#
-cctv14,http://111.43.104.93:85/tsfile/live/137/2014_1.m3u8?key=txiptv
 CCTV1,http://183.250.156.180:9999/newlive/live/hls/1/live.m3u8
 CCTV2,http://183.250.156.180:9999/newlive/live/hls/2/live.m3u8
 CCTV3,http://183.250.156.180:9999/newlive/live/hls/3/live.m3u8
@@ -355,21 +354,7 @@ BTVå¡é·å°å¿,http://223.72.123.44:85/tsfile/live/1026_1.m3u8?key=
 åäº¬è´¢ç»,http://223.72.123.44:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 åäº¬ç§æ,http://223.72.123.44:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 
-CCTV1,http://111.43.104.93:85/tsfile/live/124/2001_1.m3u8?key=txiptv
-CCTV2,http://111.43.104.93:85/tsfile/live/125/2002_1.m3u8?key=txiptv
-CCTV3,http://111.43.104.93:85/tsfile/live/126/2003_1.m3u8?key=txiptv
-CCTV4,http://111.43.104.93:85/tsfile/live/127/2004_1.m3u8?key=txiptv
-CCTV5,http://111.43.104.93:85/tsfile/live/128/2005_1.m3u8?key=txiptv
-CCTV5+,http://111.43.104.93:85/tsfile/live/129/2006_1.m3u8?key=txiptv
-CCTV6,http://111.43.104.93:85/tsfile/live/130/2007_1.m3u8?key=txiptv
-CCTV7,http://111.43.104.93:85/tsfile/live/131/2008_1.m3u8?key=txiptv
-CCTV8,http://111.43.104.93:85/tsfile/live/132/2009_1.m3u8?key=txiptv
-CCTV9,http://111.43.104.93:85/tsfile/live/133/2010_1.m3u8?key=txiptv
-CCTV10,http://111.43.104.93:85/tsfile/live/134/2011_1.m3u8?key=txiptv
-CCTV12,http://111.43.104.93:85/tsfile/live/135/2012_1.m3u8?key=txiptv
-CCTV13,http://111.43.104.93:85/tsfile/live/136/2013_1.m3u8?key=txiptv
-CCTV14,http://111.43.104.93:85/tsfile/live/137/2014_1.m3u8?key=txiptv
-å¡é·å°å¿,http://111.43.104.93:85/tsfile/live/157/2034_1.m3u8?key=txiptv
+
 
 CCTV1,http://125.43.246.247:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://125.43.246.247:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1108,8 +1093,8 @@ ICSé¢é,http://218.1.208.13:7777/tsfile/live/1033_1.m3u8?key=txiptv&play
 ð¥æ¸¯å°çµå½±,#genre#
 
 ä¸­åé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=61
-ç¾äºçµå½±
-NOWçè°·,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUpn7Lrhdbt8W042CxwTlNwHQBHxAorPl6WG505axByLsqm_6uwwf1TFr09ekS-WoJxI9O52n-XjCSzld0iXNILyGsupIIoJAwHj6sU5fRMWkT8lXOjk8dzTjEAFkg7T7lkFrggmhPUEnMV8uzxJHoqLE4Z9kmjzi7bsfb2fGQXfcylFnj-ccOYGV6y8bKDUuf22WZ575UidyzCiYfIdoV-yo.m3u8?u=1756878715
+ç¾äºçµå½±,http://rihou.cc:555/tv/ç¾äºçµå½±
+NOWçè°· 
 NOWæå½±
 PopCçµå½±,http://mytvsuper.webn.cc:2052/stream/mytv/popc/master.m3u8?u=yhy&p=447c04d6fbd1b6db532939627946d3ee4532fbe69a842ccfe439df51e0fff326
 
@@ -1120,7 +1105,7 @@ PopCçµå½±,http://mytvsuper.webn.cc:2052/stream/mytv/popc/master.m3u8?u=yh
 æç©ºå½é
 çº¬æ¥çµå½±,http://rihou.cc:555/tv/çº¬æ¥çµå½±
 ä¸æ£®çµå½±,http://rihou.cc:555/tv/ä¸æ£®çµå½± 
-ä¸æ£®æ´ç,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyueGr-6I5WurXyVzCPErAn1bIY0Xo0oD4WTTmWvbwk0WlRLAiSKjvvk1qlTgn_rvKqmndIlkvXOsgb2pLGqYWlBY4bum9lzyFDqrQV09sm9mH8Norh0gOkpeKmnKhs7l0EGvOTpy8B5LkIDy-zcVjSoBzBiSy2SqAL9FF4LqSM_pIZGYBuWkuHd68RQGk25yig.m3u8?u=1756878715 
+ä¸æ£®æ´ç 
 éæ´æå§,http://iptv.4666888.xyz/iptv2A.php?id=42
 éå¤©çµå½±,http://iptv.4666888.xyz/iptv2A.php?id=56
 éåå¸è¢æ,http://o11.163189.xyz/stream/live/jgbdx/
@@ -1228,7 +1213,7 @@ TVB PLUS,https://hls.iill.top/api/TVB-Plus/index.m3u8
  
 ð¹ð¼å°æ¹¾,#genre#
 æ¸©é¦¨æé:è®¾ç½®è¶æ¶30ç§æä½³,http://rihou.cc:555/tv/ds
-ä¸­å¤©æ°é»,http://rihou.cc:555/tv/ä¸­å¤©æ°é»
+ä¸­å¤©æ°é»,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw#http://rihou.cc:555/tv/ä¸­å¤©æ°é»
 ä¸­å¤©äºæ´²,http://rihou.cc:555/tv/ä¸­å¤©äºæ´²
 ä¸­å¤©ç»¼å,http://rihou.cc:555/tv/ä¸­å¤©ç»¼å
 ä¸­å¤©å¨±ä¹,http://47.104.163.156:50/å°æ¹¾.php?id=ztyl
