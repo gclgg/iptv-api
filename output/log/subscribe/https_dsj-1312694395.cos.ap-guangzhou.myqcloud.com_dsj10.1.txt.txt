@@ -22,7 +22,7 @@
 â¤ï¸æ±èå«è§4K,http://103.45.128.46:2001/jmb/IPTV.php?id=æ±èå«è§
 â¤ï¸æµæ±å«è§4K,https://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 â¤ï¸ä¸æ¹å«è§4K,http://go.bkpcp.top/mg/dfws
-â¤ï¸æ·±å³å«è§4K,http://nn.7x9d.cn/æ·±å³ææ°.php?id=szws4k
+â¤ï¸æ·±å³å«è§4K,http://rihou.cc:555/tv/szws#http://nn.7x9d.cn/æ·±å³ææ°.php?id=szws4k
 â¤ï¸åäº¬å«è§4K,http://123.207.224.130:123/beijing/beijing.php?id=bjws4k
 â¤ï¸å¹¿ä¸4K,http://38.75.136.137:98/gslb/dsdqpub/gdtvs3.m3u8?auth=testpub
 â¤ï¸åå·å«è§4K,https://d.0j7.cn/X0Vtf 
@@ -630,7 +630,103 @@ CCTV15,http://120.40.39.246:352/newlive/live/hls/16/live.m3u8$ç¦å·é
 æ²³åå«è§,http://120.40.39.246:352/newlive/live/hls/24/live.m3u8$ç¦å·éåº
 ç¦å»ºç»¼å,http://120.40.39.246:352/newlive/live/hls/18/live.m3u8$ç¦å·éåº
 
- 
+ðç§»å¨ä¸ç¨,#genre#
+CCTV1,http://gslbserv.itv.cmvideo.cn:80/5068253659616166748/1.m3u8?channel-id=wasusyt&Contentid=5068253659616166748&livemode=1&stbId=toShengfen&mode=1
+CCTV1,http://gslbserv.itv.cmvideo.cn:80/reallive-cctv1/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv1&livemode=1&stbId=toShengfen&mode=1
+CCTV1,http://gslbserv.itv.cmvideo.cn:80/reallive-hdcctv1/1.m3u8?channel-id=ystenlive&Contentid=reallive-hdcctv1&livemode=1&stbId=toShengfen&mode=1
+CCTV2,http://gslbserv.itv.cmvideo.cn:80/8878432746825677699/1.m3u8?channel-id=wasusyt&Contentid=8878432746825677699&livemode=1&stbId=toShengfen&mode=1
+CCTV2,http://gslbserv.itv.cmvideo.cn:80/5353323539453949720/1.m3u8?channel-id=ystenlive&Contentid=5353323539453949720&livemode=1&stbId=toShengfen&mode=1
+CCTV3,http://gslbserv.itv.cmvideo.cn:80/8378175926191110263/1.m3u8?channel-id=ystenlive&Contentid=8378175926191110263&livemode=1&stbId=toShengfen&mode=1
+CCTV4,http://gslbserv.itv.cmvideo.cn:80/8183388942203045169/1.m3u8?channel-id=ystenlive&Contentid=8183388942203045169&livemode=1&stbId=toShengfen&mode=1
+CCTV5,http://gslbserv.itv.cmvideo.cn:80/reallive-cctv5/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv5&livemode=1&stbId=toShengfen&mode=1
+CCTV5+,http://gslbserv.itv.cmvideo.cn:80/reallive-cctv5plus/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv5plus&livemode=1&stbId=toShengfen&mode=1
+CCTV6,http://gslbserv.itv.cmvideo.cn:80/6117099895556651277/1.m3u8?channel-id=ystenlive&Contentid=6117099895556651277&livemode=1&stbId=toShengfen&mode=1
+CCTV7,http://gslbserv.itv.cmvideo.cn:80/7050628689018054317/1.m3u8?channel-id=ystenlive&Contentid=7050628689018054317&livemode=1&stbId=toShengfen&mode=1
+CCTV8,http://gslbserv.itv.cmvideo.cn:80/8871488051501921127/1.m3u8?channel-id=ystenlive&Contentid=8871488051501921127&livemode=1&stbId=toShengfen&mode=1
+CCTV9,http://gslbserv.itv.cmvideo.cn:80/6350727550077620987/1.m3u8?channel-id=wasusyt&Contentid=6350727550077620987&livemode=1&stbId=toShengfen&mode=1
+CCTV9,http://gslbserv.itv.cmvideo.cn:80/6275371742726901431/1.m3u8?channel-id=ystenlive&Contentid=6275371742726901431&livemode=1&stbId=toShengfen&mode=1
+CCTV10,http://gslbserv.itv.cmvideo.cn:80/7019587760656900133/1.m3u8?channel-id=ystenlive&Contentid=7019587760656900133&livemode=1&stbId=toShengfen&mode=1
+CCTV11,http://gslbserv.itv.cmvideo.cn:80/6351457414282570521/1.m3u8?channel-id=ystenlive&Contentid=6351457414282570521&livemode=1&stbId=toShengfen&mode=1
+CCTV12,http://gslbserv.itv.cmvideo.cn:80/5325631075193490169/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=toShengfen&mode=1
+CCTV13,http://gslbserv.itv.cmvideo.cn:80/6918130250570453526/1.m3u8?channel-id=ystenlive&Contentid=6918130250570453526&livemode=1&stbId=toShengfen&mode=1
+CCTV14,http://gslbserv.itv.cmvideo.cn:80/6113730085955692619/1.m3u8?channel-id=wasusyt&Contentid=6113730085955692619&livemode=1&stbId=toShengfen&mode=1
+CCTV14,http://gslbserv.itv.cmvideo.cn:80/8203666801302077036/1.m3u8?channel-id=ystenlive&Contentid=8203666801302077036&livemode=1&stbId=toShengfen&mode=1
+CCTV15,http://gslbserv.itv.cmvideo.cn:80/4832596595465032187/1.m3u8?channel-id=ystenlive&Contentid=4832596595465032187&livemode=1&stbId=toShengfen&mode=1
+CCTV17,http://gslbserv.itv.cmvideo.cn:80/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=toShengfen&mode=1
+CGTNçºªå½,http://gslbserv.itv.cmvideo.cn:80/8428799834696888424/1.m3u8?channel-id=ystenlive&Contentid=8428799834696888424&livemode=1&stbId=toShengfen&mode=1
+ä¸­å½æè²1å°,http://gslbserv.itv.cmvideo.cn:80/7106250793420582078/1.m3u8?channel-id=ystenlive&Contentid=7106250793420582078&livemode=1&stbId=toShengfen&mode=1
+æ¹åå«è§,http://gslbserv.itv.cmvideo.cn:80/6954818217931477266/1.m3u8?channel-id=ystenlive&Contentid=6954818217931477266&livemode=1&stbId=toShengfen&mode=1
+æ¹åå«è§,http://gslbserv.itv.cmvideo.cn:80/8655038471675748531/1.m3u8?channel-id=ystenlive&Contentid=8655038471675748531&livemode=1&stbId=toShengfen&mode=1
+æµæ±å«è§,http://gslbserv.itv.cmvideo.cn:80/4945391150963996912/1.m3u8?channel-id=ystenlive&Contentid=4945391150963996912&livemode=1&stbId=toShengfen&mode=1
+æµæ±å«è§,http://gslbserv.itv.cmvideo.cn:80/7889730693553663314/1.m3u8?channel-id=ystenlive&Contentid=7889730693553663314&livemode=1&stbId=toShengfen&mode=1
+æ±èå«è§,http://gslbserv.itv.cmvideo.cn:80/4690153511271751319/1.m3u8?channel-id=ystenlive&Contentid=4690153511271751319&livemode=1&stbId=toShengfen&mode=1
+æ±èå«è§,http://gslbserv.itv.cmvideo.cn:80/4796340999304424198/1.m3u8?channel-id=ystenlive&Contentid=4796340999304424198&livemode=1&stbId=toShengfen&mode=1
+åäº¬å«è§,http://gslbserv.itv.cmvideo.cn:80/8186688740528366039/1.m3u8?channel-id=ystenlive&Contentid=8186688740528366039&livemode=1&stbId=toShengfen&mode=1
+åäº¬å«è§,http://gslbserv.itv.cmvideo.cn:80/8258663409451267714/1.m3u8?channel-id=ystenlive&Contentid=8258663409451267714&livemode=1&stbId=toShengfen&mode=1
+ä¸æ¹å«è§,http://gslbserv.itv.cmvideo.cn:80/6690661682550849647/1.m3u8?channel-id=wasusyt&Contentid=6690661682550849647&livemode=1&stbId=toShengfen&mode=1
+ä¸æ¹å«è§,http://gslbserv.itv.cmvideo.cn:80/4699937686040264690/1.m3u8?channel-id=ystenlive&Contentid=4699937686040264690&livemode=1&stbId=toShengfen&mode=1
+ä¸æ¹å«è§,http://gslbserv.itv.cmvideo.cn:80/6081477947334326291/1.m3u8?channel-id=ystenlive&Contentid=6081477947334326291&livemode=1&stbId=toShengfen&mode=1
+æ¹åå«è§,http://gslbserv.itv.cmvideo.cn:80/6956052407855047826/1.m3u8?channel-id=ystenlive&Contentid=6956052407855047826&livemode=1&stbId=toShengfen&mode=1
+å®å¾½å«è§,http://gslbserv.itv.cmvideo.cn:80/4774346722046993363/1.m3u8?channel-id=ystenlive&Contentid=4774346722046993363&livemode=1&stbId=toShengfen&mode=1
+ä¸åå«è§,http://gslbserv.itv.cmvideo.cn:80/7721801662260370363/1.m3u8?channel-id=ystenlive&Contentid=7721801662260370363&livemode=1&stbId=toShengfen&mode=1
+çèå«è§,http://gslbserv.itv.cmvideo.cn:80/8938598377512027715/1.m3u8?channel-id=ystenlive&Contentid=8938598377512027715&livemode=1&stbId=toShengfen&mode=1
+å¹¿ä¸å«è§,http://gslbserv.itv.cmvideo.cn:80/5306115082857917057/1.m3u8?channel-id=wasusyt&Contentid=5306115082857917057&livemode=1&stbId=toShengfen&mode=1
+å¹¿ä¸å«è§,http://gslbserv.itv.cmvideo.cn:80/5616881981321254555/1.m3u8?channel-id=ystenlive&Contentid=5616881981321254555&livemode=1&stbId=toShengfen&mode=1
+å¹¿ä¸å«è§,http://gslbserv.itv.cmvideo.cn:80/6604532991586541024/1.m3u8?channel-id=ystenlive&Contentid=6604532991586541024&livemode=1&stbId=toShengfen&mode=1
+å¹¿è¥¿å«è§,http://gslbserv.itv.cmvideo.cn:80/8069815772565148726/1.m3u8?channel-id=ystenlive&Contentid=8069815772565148726&livemode=1&stbId=toShengfen&mode=1
+è´µå·å«è§,http://gslbserv.itv.cmvideo.cn:80/5468064193211864646/1.m3u8?channel-id=ystenlive&Contentid=5468064193211864646&livemode=1&stbId=toShengfen&mode=1
+æµ·åå«è§,http://gslbserv.itv.cmvideo.cn:80/7899627377857656087/1.m3u8?channel-id=ystenlive&Contentid=7899627377857656087&livemode=1&stbId=toShengfen&mode=1
+æ²³åå«è§,http://gslbserv.itv.cmvideo.cn:80/8360637122634561354/1.m3u8?channel-id=ystenlive&Contentid=8360637122634561354&livemode=1&stbId=toShengfen&mode=1
+æ²³åå«è§,http://gslbserv.itv.cmvideo.cn:80/7304224304099543804/1.m3u8?channel-id=ystenlive&Contentid=7304224304099543804&livemode=1&stbId=toShengfen&mode=1
+é»é¾æ±å«è§,http://gslbserv.itv.cmvideo.cn:80/8467838254824392379/1.m3u8?channel-id=ystenlive&Contentid=8467838254824392379&livemode=1&stbId=toShengfen&mode=1
+åæå«è§,http://gslbserv.itv.cmvideo.cn:80/6042486520432105075/1.m3u8?channel-id=ystenlive&Contentid=6042486520432105075&livemode=1&stbId=toShengfen&mode=1
+æ±è¥¿å«è§,http://gslbserv.itv.cmvideo.cn:80/5616078396620462481/1.m3u8?channel-id=ystenlive&Contentid=5616078396620462481&livemode=1&stbId=toShengfen&mode=1
+è¾½å®å«è§,http://gslbserv.itv.cmvideo.cn:80/7638375013635582245/1.m3u8?channel-id=ystenlive&Contentid=7638375013635582245&livemode=1&stbId=toShengfen&mode=1
+åèå¤å«è§,http://gslbserv.itv.cmvideo.cn:80/5559214655508729688/1.m3u8?channel-id=ystenlive&Contentid=5559214655508729688&livemode=1&stbId=toShengfen&mode=1
+å®å¤å«è§,http://gslbserv.itv.cmvideo.cn:80/7527747602951312973/1.m3u8?channel-id=ystenlive&Contentid=7527747602951312973&livemode=1&stbId=toShengfen&mode=1
+éæµ·å«è§,http://gslbserv.itv.cmvideo.cn:80/6721180114242078041/1.m3u8?channel-id=ystenlive&Contentid=6721180114242078041&livemode=1&stbId=toShengfen&mode=1
+å±±ä¸å«è§,http://gslbserv.itv.cmvideo.cn:80/7347081113971056899/1.m3u8?channel-id=ystenlive&Contentid=7347081113971056899&livemode=1&stbId=toShengfen&mode=1
+å±±ä¸å«è§,http://gslbserv.itv.cmvideo.cn:80/7744799445271696577/1.m3u8?channel-id=ystenlive&Contentid=7744799445271696577&livemode=1&stbId=toShengfen&mode=1
+å±±è¥¿å«è§,http://gslbserv.itv.cmvideo.cn:80/4821787565788875765/1.m3u8?channel-id=ystenlive&Contentid=4821787565788875765&livemode=1&stbId=toShengfen&mode=1
+éè¥¿å«è§,http://gslbserv.itv.cmvideo.cn:80/7120278140251237664/1.m3u8?channel-id=ystenlive&Contentid=7120278140251237664&livemode=1&stbId=toShengfen&mode=1
+æ·±å³å«è§,http://gslbserv.itv.cmvideo.cn:80/5352218613763113657/1.m3u8?channel-id=ystenlive&Contentid=5352218613763113657&livemode=1&stbId=toShengfen&mode=1
+æ·±å³å«è§,http://gslbserv.itv.cmvideo.cn:80/7696950400632248401/1.m3u8?channel-id=ystenlive&Contentid=7696950400632248401&livemode=1&stbId=toShengfen&mode=1
+åå·å«è§,http://gslbserv.itv.cmvideo.cn:80/8744805262559782299/1.m3u8?channel-id=ystenlive&Contentid=8744805262559782299&livemode=1&stbId=toShengfen&mode=1
+å¤©æ´¥å«è§,http://gslbserv.itv.cmvideo.cn:80/6707942579111517572/1.m3u8?channel-id=ystenlive&Contentid=6707942579111517572&livemode=1&stbId=toShengfen&mode=1
+å¤©æ´¥å«è§,http://gslbserv.itv.cmvideo.cn:80/8798367982904688776/1.m3u8?channel-id=ystenlive&Contentid=8798367982904688776&livemode=1&stbId=toShengfen&mode=1
+è¥¿èå«è§,http://gslbserv.itv.cmvideo.cn:80/6603041244077933770/1.m3u8?channel-id=ystenlive&Contentid=6603041244077933770&livemode=1&stbId=toShengfen&mode=1
+æ°çå«è§,http://gslbserv.itv.cmvideo.cn:80/5802765535081445534/1.m3u8?channel-id=ystenlive&Contentid=5802765535081445534&livemode=1&stbId=toShengfen&mode=1
+äºåå«è§,http://gslbserv.itv.cmvideo.cn:80/8567124785369040339/1.m3u8?channel-id=ystenlive&Contentid=8567124785369040339&livemode=1&stbId=toShengfen&mode=1
+éåºå«è§,http://gslbserv.itv.cmvideo.cn:80/4995134319251569870/1.m3u8?channel-id=ystenlive&Contentid=4995134319251569870&livemode=1&stbId=toShengfen&mode=1
+å±±ä¸æè²å«è§,http://gslbserv.itv.cmvideo.cn:80/7341476808603780321/1.m3u8?channel-id=ystenlive&Contentid=7341476808603780321&livemode=1&stbId=toShengfen&mode=1
+è¶çº§ä½è²,http://gslbserv.itv.cmvideo.cn:80/1000000004000007755/1.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=toShengfen&mode=1
+ç²¾åä½è²,http://gslbserv.itv.cmvideo.cn:80/6460382139625130259/1.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=toShengfen&mode=1
+é»èçµå½±,http://gslbserv.itv.cmvideo.cn:80/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=toShengfen&mode=1
+é»èå¨ç»,http://gslbserv.itv.cmvideo.cn:80/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=toShengfen&mode=1
+ååç«å¨,http://gslbserv.itv.cmvideo.cn:80/5101217554085087042/1.m3u8?channel-id=ystenlive&Contentid=5101217554085087042&livemode=1&stbId=toShengfen&mode=1
+éé¹°å¡é,http://gslbserv.itv.cmvideo.cn:80/5201381050640253101/1.m3u8?channel-id=ystenlive&Contentid=5201381050640253101&livemode=1&stbId=toShengfen&mode=1
+å¡é·å°å¿,http://gslbserv.itv.cmvideo.cn:80/7589856436881630561/1.m3u8?channel-id=ystenlive&Contentid=7589856436881630561&livemode=1&stbId=toShengfen&mode=1
+ä¼æ¼«å¡é,http://gslbserv.itv.cmvideo.cn:80/5574405527570022182/1.m3u8?channel-id=ystenlive&Contentid=5574405527570022182&livemode=1&stbId=toShengfen&mode=1
+ç±æåå§,http://gslbserv.itv.cmvideo.cn:80/8393829412396288037/1.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=toShengfen&mode=1
+è¶çº§çµè§å§,http://gslbserv.itv.cmvideo.cn:80/1000000004000024993/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=toShengfen&mode=1
+è¶çº§çµå½±,http://gslbserv.itv.cmvideo.cn:80/1000000004000002120/1.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=toShengfen&mode=1
+è¶çº§ç»¼èº,http://gslbserv.itv.cmvideo.cn:80/1000000004000023658/1.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=toShengfen&mode=1
+æ½®å¦è¾£å©,http://gslbserv.itv.cmvideo.cn:80/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=toShengfen&mode=1
+å¨ä½çµå½±,http://gslbserv.itv.cmvideo.cn:80/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=toShengfen&mode=1
+éçç»¼èº,http://gslbserv.itv.cmvideo.cn:80/6399725674632152632/1.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=toShengfen&mode=1
+æææ¬ç,http://gslbserv.itv.cmvideo.cn:80/7151256057701199617/1.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=toShengfen&mode=1
+ç²¾åå¤§å§,http://gslbserv.itv.cmvideo.cn:80/7882297361445410858/1.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=toShengfen&mode=1
+ç²¾åç»¼å,http://gslbserv.itv.cmvideo.cn:80/5595720619887440144/1.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=toShengfen&mode=1
+åäºè¯è®º,http://gslbserv.itv.cmvideo.cn:80/5822616274253344775/1.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=toShengfen&mode=1
+åä¸è´å¯,http://gslbserv.itv.cmvideo.cn:80/6193684637634073625/1.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=toShengfen&mode=1
+ç­æ­ç²¾é,http://gslbserv.itv.cmvideo.cn:80/7681593242002292003/1.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=toShengfen&mode=1
+æ­¦æä¸ç,http://gslbserv.itv.cmvideo.cn:80/bokesen/1.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=toShengfen&mode=1
+ç«èæªæ¥,http://gslbserv.itv.cmvideo.cn:80/1000000001000000515/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=toShengfen&mode=1
+æ¡ä¼´å¥åº·,http://gslbserv.itv.cmvideo.cn:80/7820874641606664941/1.m3u8?channel-id=ystenlive&Contentid=7820874641606664941&livemode=1&stbId=toShengfen&mode=1
+ä¸­å½åå¤«,http://gslbserv.itv.cmvideo.cn:80/5897056882324761054/1.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=toShengfen&mode=1
+å®¶æè´­ç©,http://gslbserv.itv.cmvideo.cn:80/6859053933687922163/1.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=toShengfen&mode=1
+ç½çå§åº,http://gslbserv.itv.cmvideo.cn:80/6298506997017621594/1.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=toShengfen&mode=1
+è³è»è§ç4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&mode=1
 
 ð¡å°æ¹é¢é,#genre#
 ðé»é¾æ±å«è§,http://112.99.195.122:65000/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -957,13 +1053,13 @@ CCTV15,http://120.40.39.246:352/newlive/live/hls/16/live.m3u8$ç¦å·é
 æµ·åå½±è§,http://153.0.171.163:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$æµ·å/ä¸äº/èé
 æµ·åèªè´¸,http://153.0.171.163:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$æµ·å/ä¸äº/èé
 
-ðåèå¤èè¯­ 
-åèå¤æåé¢é 
-åèå¤æ°é»ç»¼å 
-åèå¤å°å¿é¢é 
-åèå¤æä½å¨±ä¹ 
-åèå¤åç§é¢é 
-åèå¤ç»æµçæ´» 
+ðåèå¤èè¯­å«è§,http://play1-qk.nmtv.cn/live/2315general.m3u8
+åèå¤æ°é»ç»¼å,http://play1-qk.nmtv.cn/live/2316general.m3u8
+åèå¤æä½å¨±ä¹,http://play1-qk.nmtv.cn/live/2319general.m3u8
+åèå¤ç»æµçæ´»,http://play1-qk.nmtv.cn/live/2317general.m3u8
+åèå¤åç§,http://play1-qk.nmtv.cn/live/2320general.m3u8
+åèå¤å°å¿,http://play1-qk.nmtv.cn/live/2318general.m3u8
+åèå¤æå,http://play1-qk.nmtv.cn/live/2321general.m3u8
 
 å¼åæµ©ç¹æ°é»ç»¼å,http://play1-qk.nmtv.cn/live/1735545967595013.m3u8
 åå¤´æ°é»ç»¼å,http://play1-qk.nmtv.cn/live/1735546150395017.m3u8
@@ -1094,8 +1190,10 @@ ICSé¢é,http://218.1.208.13:7777/tsfile/live/1033_1.m3u8?key=txiptv&play
 
 ä¸­åé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=61
 ç¾äºçµå½±,http://rihou.cc:555/tv/ç¾äºçµå½±
-NOWçè°· 
-NOWæå½±
+Nowæå½±(å½),http://rihou.cc:555/tv/hktv%2Ftb19nowxy73
+Nowçè°·(å½),http://rihou.cc:555/tv/hktv%2Ftb19nowbg73
+å¥½è±åçµå½±,http://rihou.cc:555/tv/hktv%2Ftbbggh081773
+æéçµå½±å°,http://rihou.cc:555/tv/hktv%2Ftb19jstv78
 PopCçµå½±,http://mytvsuper.webn.cc:2052/stream/mytv/popc/master.m3u8?u=yhy&p=447c04d6fbd1b6db532939627946d3ee4532fbe69a842ccfe439df51e0fff326
 
 å¤©æ é¢é,http://o11.163189.xyz/stream/live/typd/
@@ -1156,6 +1254,10 @@ CCTV6
 å¤å°èµè®¯,https://cdn6.163189.xyz/163189/fhzx
 å¤å°é¦æ¸¯,https://cdn6.163189.xyz/163189/fhhk
 
+å¤å°ä¸­æ,http://115.44.140.170:18180/TV00000000000000000008@HHZT
+å¤å°èµè®¯,http://115.44.140.170:18180/TV00000000000000000009@HHZT
+å¤å°é¦æ¸¯,http://115.44.140.170:18180/TV00000000000000000024@HHZT
+
 å¤å°ä¸­æ,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$éå·éåº
 å¤å°èµè®¯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$éå·éåº
 å¤å°ä¸­æ,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$éè¥¿çµä¿¡éåº
@@ -1214,11 +1316,10 @@ TVB PLUS,https://hls.iill.top/api/TVB-Plus/index.m3u8
 ð¹ð¼å°æ¹¾,#genre#
 æ¸©é¦¨æé:è®¾ç½®è¶æ¶30ç§æä½³,http://rihou.cc:555/tv/ds
 ä¸­å¤©æ°é»,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw#http://rihou.cc:555/tv/ä¸­å¤©æ°é»
-ä¸­å¤©äºæ´²,http://rihou.cc:555/tv/ä¸­å¤©äºæ´²
-ä¸­å¤©ç»¼å,http://rihou.cc:555/tv/ä¸­å¤©ç»¼å
-ä¸­å¤©å¨±ä¹,http://47.104.163.156:50/å°æ¹¾.php?id=ztyl
+ä¸­å¤©äºæ´² http://rihou.cc:555/tv/ä¸­å¤©äºæ´²
+ä¸­å¤©ç»¼å http://rihou.cc:555/tv/ä¸­å¤©ç»¼å
 å¯°å®æ°è,http://rihou.cc:555/tv/å¯°å®æ°é»
-å¯°å®æ°èå°æ¹¾ http://rihou.cc:555/tv/å¯°å®å°æ¹¾
+å¯°å®æ°èå°æ¹¾,http://rihou.cc:555/tv/å¯°å®å°æ¹¾
 ä¸æ£®æ°é»,http://rihou.cc:555/tv/ä¸æ£®æ°é»
 TVBS,http://rihou.cc:555/tv/TVBS1
 TVBSæ°é»,http://rihou.cc:555/tv/[FY]tvbSæ°é»
@@ -1264,7 +1365,7 @@ TRACEURBAN,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
 NewsWorld,https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
 Taiwan+,https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWU4OWZvLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjI4MjI1MTQwNzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MjgyMjUxNDA3MDAxIl0sImp0aSI6IjYzODUyMzU4NjkxMTIifQ.4c-V1Ks3nBx9nRljtn5-jCNP_nLuWBbk-pw9BFWZfMQ/playlist-hls.m3u8
 æ°åäºº,http://rihou.cc:555/tv/NTD
-Love Nature,http://tl.061833.xyz/tl/lovenaturehd
+Love Nature,http://rihou.cc:555/tv/LoveNature 
 Wild TV,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
 å¨ç©æç 
