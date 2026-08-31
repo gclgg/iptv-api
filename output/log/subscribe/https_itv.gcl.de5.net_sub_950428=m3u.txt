@@ -1,408 +1,780 @@
 #EXTM3U x-tvg-url="https://epg.gcl.de5.net/epg/51zmt.xml"
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV1.png",CCTV1
+http://114.245.198.169:85/tsfile/live/1/1001_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV1.png",CCTV1
 http://110.72.103.95:808/hls/54/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV1.png",CCTV1
 http://120.238.84.45:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV1.png",CCTV1
-http://61.161.61.119:9004/hls/1/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV1.png",CCTV1
-http://114.245.198.169:85/tsfile/live/1/1001_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV1.png",CCTV1
-http://123.118.53.84:45237/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV2.png",CCTV2
-http://120.238.84.45:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV2.png",CCTV2
-http://61.161.61.119:9004/hls/2/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV2.png",CCTV2
-http://182.91.79.82:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+http://39.81.185.254:1234/608807420
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV2.png",CCTV2
 http://114.245.198.169:85/tsfile/live/2/1002_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV2.png",CCTV2
-http://123.118.53.84:45237/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://110.72.103.111:808/hls/97/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV2.png",CCTV2
+http://182.91.79.82:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV2.png",CCTV2
+http://120.238.84.45:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV2.png",CCTV2
+http://39.81.185.254:1234/631780532
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV3.png",CCTV3
+http://114.245.198.169:85/tsfile/live/3/1003_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV3.png",CCTV3
+http://110.72.103.111:808/hls/37/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV3.png",CCTV3
 http://110.72.81.174:808/hls/37/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV3.png",CCTV3
+http://182.91.79.82:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV3.png",CCTV3
 http://110.72.82.241:808/hls/37/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV3.png",CCTV3
 http://120.238.84.45:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV3.png",CCTV3
-http://61.161.61.119:9004/hls/3/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV3.png",CCTV3
-http://182.91.79.82:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV3.png",CCTV3
-http://114.245.198.169:85/tsfile/live/3/1003_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV3.png",CCTV3
-http://123.118.53.84:45237/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+http://39.81.185.254:1234/624878271
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV4.png",CCTV4
+http://110.72.103.111:808/hls/113/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV4.png",CCTV4
 http://120.238.84.45:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV4.png",CCTV4
-http://61.161.61.119:9004/hls/4/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png",CCTV5
-http://110.72.81.174:808/hls/38/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png",CCTV5
-http://110.72.103.95:808/hls/38/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png",CCTV5
-http://110.72.82.241:808/hls/38/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png",CCTV5
-http://120.238.84.45:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png",CCTV5
-http://61.161.61.119:9004/hls/6/index.m3u8
+http://39.81.185.254:1234/631780421
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png",CCTV5
 http://114.245.198.169:85/tsfile/live/5/1005_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png",CCTV5
-http://123.118.53.84:45237/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+http://110.72.103.111:808/hls/38/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png",CCTV5
+http://110.72.81.174:808/hls/38/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png",CCTV5
+http://110.72.82.241:808/hls/38/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png",CCTV5
+http://110.72.103.95:808/hls/38/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png",CCTV5
+http://120.238.84.45:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png",CCTV5
+http://39.81.185.254:1234/641886683
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5+.png",CCTV5+
-http://120.238.84.45:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+http://114.245.198.169:85/tsfile/live/23/1023_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5+.png",CCTV5+
-http://61.161.61.119:9004/hls/7/index.m3u8
+http://110.72.103.111:808/hls/14/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5+.png",CCTV5+
 http://182.91.79.82:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5+.png",CCTV5+
-http://114.245.198.169:85/tsfile/live/23/1023_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV6.png",CCTV6
-http://110.72.81.174:808/hls/39/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV6.png",CCTV6
-http://110.72.103.95:808/hls/39/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV6.png",CCTV6
-http://110.72.82.241:808/hls/39/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV6.png",CCTV6
-http://120.238.84.45:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV6.png",CCTV6
-http://61.161.61.119:9004/hls/8/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV6.png",CCTV6
-http://182.91.79.82:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+http://120.238.84.45:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5+.png",CCTV5+
+http://39.81.185.254:1234/641886773
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV6.png",CCTV6
 http://114.245.198.169:85/tsfile/live/6/1006_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV6.png",CCTV6
-http://123.118.53.84:45237/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV7.png",CCTV7
-http://110.72.81.174:808/hls/5/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV7.png",CCTV7
-http://120.238.84.45:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV7.png",CCTV7
-http://182.91.79.82:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+http://110.72.103.111:808/hls/39/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV6.png",CCTV6
+http://110.72.81.174:808/hls/39/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV6.png",CCTV6
+http://182.91.79.82:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV6.png",CCTV6
+http://110.72.82.241:808/hls/39/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV6.png",CCTV6
+http://110.72.103.95:808/hls/39/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV6.png",CCTV6
+http://120.238.84.45:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV6.png",CCTV6
+http://39.81.185.254:1234/624878396
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV7.png",CCTV7
 http://114.245.198.169:85/tsfile/live/7/1007_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV7.png",CCTV7
-http://123.118.53.84:45237/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV8.png",CCTV8
-http://110.72.81.174:808/hls/40/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV8.png",CCTV8
-http://110.72.103.95:808/hls/40/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV8.png",CCTV8
-http://110.72.82.241:808/hls/40/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV8.png",CCTV8
-http://120.238.84.45:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV8.png",CCTV8
-http://61.161.61.119:9004/hls/10/index.m3u8
+http://110.72.103.111:808/hls/98/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV7.png",CCTV7
+http://110.72.103.111:808/hls/5/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV7.png",CCTV7
+http://110.72.81.174:808/hls/5/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV7.png",CCTV7
+http://182.91.79.82:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV7.png",CCTV7
+http://120.238.84.45:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV7.png",CCTV7
+http://39.81.185.254:1234/673168121
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV8.png",CCTV8
 http://114.245.198.169:85/tsfile/live/8/1008_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV8.png",CCTV8
-http://123.118.53.84:45237/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV9.png",CCTV9
-http://120.238.84.45:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV9.png",CCTV9
-http://61.161.61.119:9004/hls/11/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV9.png",CCTV9
-http://182.91.79.82:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+http://110.72.103.111:808/hls/40/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV8.png",CCTV8
+http://110.72.81.174:808/hls/40/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV8.png",CCTV8
+http://110.72.82.241:808/hls/40/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV8.png",CCTV8
+http://110.72.103.95:808/hls/40/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV8.png",CCTV8
+http://120.238.84.45:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV8.png",CCTV8
+http://39.81.185.254:1234/624878356
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV9.png",CCTV9
 http://114.245.198.169:85/tsfile/live/9/1009_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV9.png",CCTV9
-http://123.118.53.84:45237/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV10.png",CCTV10
-http://120.238.84.45:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV10.png",CCTV10
-http://61.161.61.119:9004/hls/12/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV10.png",CCTV10
-http://182.91.79.82:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+http://110.72.103.111:808/hls/119/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV9.png",CCTV9
+http://182.91.79.82:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV9.png",CCTV9
+http://120.238.84.45:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV9.png",CCTV9
+http://39.81.185.254:1234/673168140
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV10.png",CCTV10
 http://114.245.198.169:85/tsfile/live/10/1010_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV10.png",CCTV10
-http://123.118.53.84:45237/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV11.png",CCTV11
-http://120.238.84.45:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV11.png",CCTV11
-http://61.161.61.119:9004/hls/13/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV11.png",CCTV11
-http://182.91.79.82:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+http://110.72.103.111:808/hls/99/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV10.png",CCTV10
+http://182.91.79.82:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV10.png",CCTV10
+http://120.238.84.45:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV10.png",CCTV10
+http://39.81.185.254:1234/624878405
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV11.png",CCTV11
 http://114.245.198.169:85/tsfile/live/12/1012_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV11.png",CCTV11
-http://123.118.53.84:45237/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+http://110.72.103.111:808/hls/100/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV11.png",CCTV11
+http://182.91.79.82:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV11.png",CCTV11
+http://120.238.84.45:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV11.png",CCTV11
+http://39.81.185.254:1234/667987558
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV12.png",CCTV12
+http://110.72.103.111:808/hls/101/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV12.png",CCTV12
+http://182.91.79.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV12.png",CCTV12
 http://120.238.84.45:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV12.png",CCTV12
-http://61.161.61.119:9004/hls/14/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV12.png",CCTV12
-http://182.91.79.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV13.png",CCTV13
-http://61.161.61.119:9004/hls/15/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV13.png",CCTV13
-http://182.91.79.82:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+http://39.81.185.254:1234/673168185
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV13.png",CCTV13
 http://114.245.198.169:85/tsfile/live/13/1013_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV13.png",CCTV13
-http://123.118.53.84:45237/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+http://110.72.103.111:808/hls/106/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV13.png",CCTV13
+http://182.91.79.82:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://logo.gcl.de5.net/tv/CCTV13.png",CCTV13
+http://39.81.185.254:1234/608807423
+#EXTINF:-1 group-title="港台节目" tvg-logo="https://logo.gcl.de5.net/tv/凤凰中文.png",凤凰中文
+http://110.72.103.111:808/hls/249449646/index.m3u8
+#EXTINF:-1 group-title="港台节目" tvg-logo="https://logo.gcl.de5.net/tv/凤凰中文.png",凤凰中文
+http://110.72.103.111:808/hls/234575323/index.m3u8
+#EXTINF:-1 group-title="港台节目" tvg-logo="https://logo.gcl.de5.net/tv/凤凰资讯.png",凤凰资讯
+http://110.72.103.111:808/hls/261263452/index.m3u8
+#EXTINF:-1 group-title="港台节目" tvg-logo="https://logo.gcl.de5.net/tv/凤凰资讯.png",凤凰资讯
+http://110.72.103.111:808/hls/219429978/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/重庆卫视.png",重庆卫视
-http://120.238.84.45:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+http://114.245.198.169:85/tsfile/live/42/1042_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/重庆卫视.png",重庆卫视
-http://61.161.61.119:9004/hls/41/index.m3u8
+http://110.72.103.111:808/hls/33/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/重庆卫视.png",重庆卫视
 http://182.91.79.82:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/重庆卫视.png",重庆卫视
-http://114.245.198.169:85/tsfile/live/42/1042_1.m3u8?key=txiptv
+http://120.238.84.45:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/重庆卫视.png",重庆卫视
+http://39.81.185.254:1234/738910914
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/江苏卫视.png",江苏卫视
-http://120.238.84.45:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+http://114.245.198.169:85/tsfile/live/32/1032_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/江苏卫视.png",江苏卫视
-http://61.161.61.119:9004/hls/44/index.m3u8
+http://110.72.103.111:808/hls/30/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/江苏卫视.png",江苏卫视
 http://182.91.79.82:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/江苏卫视.png",江苏卫视
-http://114.245.198.169:85/tsfile/live/32/1032_1.m3u8?key=txiptv
+http://120.238.84.45:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/江苏卫视.png",江苏卫视
+http://39.81.185.254:1234/623899368
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/浙江卫视.png",浙江卫视
-http://120.238.84.45:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/浙江卫视.png",浙江卫视
-http://61.161.61.119:9004/hls/45/index.m3u8
+http://110.72.103.111:808/hls/34/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/浙江卫视.png",浙江卫视
 http://182.91.79.82:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/浙江卫视.png",浙江卫视
-http://123.118.53.84:45237/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+http://120.238.84.45:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/东方卫视.png",东方卫视
-http://120.238.84.45:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+http://110.72.103.111:808/hls/29/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/东方卫视.png",东方卫视
 http://182.91.79.82:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/东方卫视.png",东方卫视
-http://123.118.53.84:45237/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+http://120.238.84.45:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/东方卫视.png",东方卫视
+http://39.81.185.254:1234/651632648
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/深圳卫视.png",深圳卫视
-http://120.238.84.45:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+http://114.245.198.169:85/tsfile/live/39/1039_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/深圳卫视.png",深圳卫视
-http://61.161.61.119:9004/hls/37/index.m3u8
+http://110.72.103.111:808/hls/1033/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/深圳卫视.png",深圳卫视
 http://182.91.79.82:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/深圳卫视.png",深圳卫视
-http://114.245.198.169:85/tsfile/live/39/1039_1.m3u8?key=txiptv
+http://120.238.84.45:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/北京卫视.png",北京卫视
+http://110.72.103.111:808/hls/137/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/北京卫视.png",北京卫视
 http://120.238.84.45:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/北京卫视.png",北京卫视
-http://61.161.61.119:9004/hls/30/index.m3u8
+http://39.81.185.254:1234/630287636
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/山东卫视.png",山东卫视
-http://120.238.84.45:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/山东卫视.png",山东卫视
-http://61.161.61.119:9004/hls/38/index.m3u8
+http://110.72.103.111:808/hls/35/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/山东卫视.png",山东卫视
 http://182.91.79.82:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/山东卫视.png",山东卫视
+http://120.238.84.45:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/天津卫视.png",天津卫视
+http://110.72.103.111:808/hls/20/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/天津卫视.png",天津卫视
 http://120.238.84.45:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/贵州卫视.png",贵州卫视
-http://120.238.84.45:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+http://110.72.103.111:808/hls/52/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/贵州卫视.png",贵州卫视
-http://61.161.61.119:9004/hls/47/index.m3u8
+http://120.238.84.45:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/四川卫视.png",四川卫视
+http://110.72.103.111:808/hls/44/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/四川卫视.png",四川卫视
 http://120.238.84.45:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/云南卫视.png",云南卫视
+http://110.72.103.111:808/hls/15/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/广西卫视.png",广西卫视
+http://110.72.103.111:808/hls/9/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/广西卫视.png",广西卫视
 http://110.72.81.174:808/hls/9/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/广西卫视.png",广西卫视
 http://120.238.84.45:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/广西卫视.png",广西卫视
-http://61.161.61.119:9004/hls/54/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/黑龙江卫视.png",黑龙江卫视
+http://110.72.103.111:808/hls/43/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/黑龙江卫视.png",黑龙江卫视
+http://182.91.79.82:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/黑龙江卫视.png",黑龙江卫视
 http://120.238.84.45:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/黑龙江卫视.png",黑龙江卫视
-http://61.161.61.119:9004/hls/33/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/黑龙江卫视.png",黑龙江卫视
-http://182.91.79.82:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/安徽卫视.png",安徽卫视
-http://120.238.84.45:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/安徽卫视.png",安徽卫视
-http://61.161.61.119:9004/hls/43/index.m3u8
+http://39.81.185.254:1234/738906901
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/安徽卫视.png",安徽卫视
 http://114.245.198.169:85/tsfile/live/29/1029_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/安徽卫视.png",安徽卫视
+http://110.72.103.111:808/hls/145/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/安徽卫视.png",安徽卫视
+http://120.238.84.45:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/山西卫视.png",山西卫视
+http://110.72.103.111:808/hls/42/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/江西卫视.png",江西卫视
+http://114.245.198.169:85/tsfile/live/37/1037_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/江西卫视.png",江西卫视
+http://110.72.103.111:808/hls/41/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/江西卫视.png",江西卫视
 http://120.238.84.45:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/江西卫视.png",江西卫视
-http://114.245.198.169:85/tsfile/live/37/1037_1.m3u8?key=txiptv
+http://39.81.185.254:1234/783847495
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/湖北卫视.png",湖北卫视
+http://110.72.103.111:808/hls/27/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/湖北卫视.png",湖北卫视
 http://120.238.84.45:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/湖北卫视.png",湖北卫视
-http://61.161.61.119:9004/hls/36/index.m3u8
+http://39.81.185.254:1234/947472496
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/旅游卫视.png",旅游卫视
+http://110.72.103.111:808/hls/1/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/旅游卫视.png",旅游卫视
 http://182.91.79.82:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/旅游卫视.png",旅游卫视
+http://39.81.185.254:1234/947472502
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/陕西卫视.png",陕西卫视
+http://110.72.103.111:808/hls/17/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/陕西卫视.png",陕西卫视
+http://39.81.185.254:1234/738910838
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/东南卫视.png",东南卫视
-http://120.238.84.45:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/东南卫视.png",东南卫视
-http://61.161.61.119:9004/hls/46/index.m3u8
+http://114.245.198.169:85/tsfile/live/43/1043_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/东南卫视.png",东南卫视
 http://182.91.79.82:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/东南卫视.png",东南卫视
-http://114.245.198.169:85/tsfile/live/43/1043_1.m3u8?key=txiptv
+http://120.238.84.45:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/东南卫视.png",东南卫视
+http://39.81.185.254:1234/849116810
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/厦门卫视.png",厦门卫视
+http://110.72.103.111:808/hls/122/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/吉林卫视.png",吉林卫视
-http://120.238.84.45:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/吉林卫视.png",吉林卫视
-http://61.161.61.119:9004/hls/31/index.m3u8
+http://114.245.198.169:85/tsfile/live/47/1047_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/吉林卫视.png",吉林卫视
 http://182.91.79.82:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/吉林卫视.png",吉林卫视
-http://114.245.198.169:85/tsfile/live/47/1047_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/辽宁卫视.png",辽宁卫视
-http://120.238.84.45:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/辽宁卫视.png",辽宁卫视
-http://61.161.61.119:9004/hls/32/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/辽宁卫视.png",辽宁卫视
-http://182.91.79.82:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+http://120.238.84.45:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/吉林卫视.png",吉林卫视
+http://39.81.185.254:1234/947472500
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/辽宁卫视.png",辽宁卫视
 http://114.245.198.169:85/tsfile/live/31/1031_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/辽宁卫视.png",辽宁卫视
-http://123.118.53.84:45237/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/湖南卫视.png",湖南卫视
-http://120.238.84.45:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/湖南卫视.png",湖南卫视
-http://61.161.61.119:9004/hls/35/index.m3u8
+http://110.72.103.111:808/hls/2/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/辽宁卫视.png",辽宁卫视
+http://182.91.79.82:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/辽宁卫视.png",辽宁卫视
+http://120.238.84.45:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/辽宁卫视.png",辽宁卫视
+http://39.81.185.254:1234/630291707
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/湖南卫视.png",湖南卫视
 http://114.245.198.169:85/tsfile/live/26/1026_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/湖南卫视.png",湖南卫视
+http://110.72.103.111:808/hls/25/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/湖南卫视.png",湖南卫视
+http://120.238.84.45:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/广东卫视.png",广东卫视
+http://110.72.103.111:808/hls/11/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/广东卫视.png",广东卫视
 http://110.72.81.174:808/hls/11/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/广东卫视.png",广东卫视
 http://120.238.84.45:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/广东卫视.png",广东卫视
+http://39.81.185.254:1234/608831231
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/大湾区卫视.png",大湾区卫视
+http://39.81.185.254:1234/608917627
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/河南卫视.png",河南卫视
+http://114.245.198.169:85/tsfile/live/34/1034_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/河南卫视.png",河南卫视
+http://110.72.103.111:808/hls/49/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/河南卫视.png",河南卫视
 http://120.238.84.45:9901/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/河南卫视.png",河南卫视
-http://114.245.198.169:85/tsfile/live/34/1034_1.m3u8?key=txiptv
+http://39.81.185.254:1234/790187291
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/河北卫视.png",河北卫视
+http://110.72.103.111:808/hls/51/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/河北卫视.png",河北卫视
 http://120.238.84.45:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/河北卫视.png",河北卫视
+http://39.81.185.254:1234/962042070
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/宁夏卫视.png",宁夏卫视
+http://110.72.103.111:808/hls/50/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/宁夏卫视.png",宁夏卫视
+http://39.81.185.254:1234/738910535
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/甘肃卫视.png",甘肃卫视
-http://61.161.61.119:9004/hls/40/index.m3u8
+http://110.72.103.111:808/hls/19/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/甘肃卫视.png",甘肃卫视
 http://182.91.79.82:85/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/新疆卫视.png",新疆卫视
-http://123.118.53.84:45237/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/西藏卫视.png",西藏卫视
-http://123.118.53.84:45237/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/青海卫视.png",青海卫视
+http://110.72.103.111:808/hls/3/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/青海卫视.png",青海卫视
+http://39.81.185.254:1234/947472506
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/兵团卫视.png",兵团卫视
+http://39.81.185.254:1234/956923145
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://logo.gcl.de5.net/tv/三沙卫视.png",三沙卫视
+http://39.81.185.254:1234/961023778
+#EXTINF:-1 group-title="其他节目" tvg-logo="https://logo.gcl.de5.net/tv/经典电影.png",经典电影
+http://110.72.103.111:808/hls/220/index.m3u8
 #EXTINF:-1 group-title="其他节目" tvg-logo="https://logo.gcl.de5.net/tv/经典电影.png",经典电影
 http://120.238.84.45:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他节目" tvg-logo="https://logo.gcl.de5.net/tv/古装剧场.png",古装剧场
-http://123.118.53.84:45237/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他节目" tvg-logo="https://logo.gcl.de5.net/tv/CHC影迷电影.png",CHC影迷电影
+http://39.81.185.254:1234/952383261
 #EXTINF:-1 group-title="其他节目" tvg-logo="https://logo.gcl.de5.net/tv/CHC家庭影院.png",CHC家庭影院
 http://120.238.84.45:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他节目" tvg-logo="https://logo.gcl.de5.net/tv/CHC家庭影院.png",CHC家庭影院
+http://39.81.185.254:1234/644368373
 #EXTINF:-1 group-title="其他节目" tvg-logo="https://logo.gcl.de5.net/tv/CHC动作电影.png",CHC动作电影
 http://120.238.84.45:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他节目" tvg-logo="https://logo.gcl.de5.net/tv/CHC动作电影.png",CHC动作电影
+http://39.81.185.254:1234/644368714
 #EXTINF:-1 group-title="其他节目" tvg-logo="https://logo.gcl.de5.net/tv/第一剧场.png",第一剧场
 http://120.238.84.45:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/BTV-卡酷.png",BTV-卡酷
-http://123.118.55.165:45237/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/BTV-卡酷.png",BTV-卡酷
-http://123.118.53.84:45237/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/24小时城市联赛轮播台.png",24小时城市联赛轮播台
+http://39.81.185.254:1234/915512915
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/BTV体育.png",BTV体育
 http://114.245.198.169:85/tsfile/live/25/1025_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/BTV体育.png",BTV体育
-http://123.118.53.84:45237/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/BTV影视.png",BTV影视
 http://114.245.198.169:85/tsfile/live/19/1019_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/BTV影视.png",BTV影视
-http://123.118.53.84:45237/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/BTV文艺.png",BTV文艺
 http://114.245.198.169:85/tsfile/live/17/1017_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/BTV文艺.png",BTV文艺
-http://123.118.53.84:45237/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/BTV新闻.png",BTV新闻
 http://114.245.198.169:85/tsfile/live/24/1024_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/BTV新闻.png",BTV新闻
-http://123.118.53.84:45237/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/BTV生活.png",BTV生活
 http://114.245.198.169:85/tsfile/live/22/1022_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/BTV生活.png",BTV生活
-http://123.118.53.84:45237/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/BTV科教.png",BTV科教
 http://114.245.198.169:85/tsfile/live/18/1018_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/BTV科教.png",BTV科教
-http://123.118.53.84:45237/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/BTV财经.png",BTV财经
 http://114.245.198.169:85/tsfile/live/20/1020_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/BTV财经.png",BTV财经
-http://123.118.53.84:45237/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CCTV-14.png",CCTV-14
+http://110.72.103.111:808/hls/105/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CCTV-14高清.png",CCTV-14高清
 http://120.238.84.45:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CCTV-15.png",CCTV-15
+http://110.72.103.111:808/hls/102/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CCTV-17高清.png",CCTV-17高清
 http://120.238.84.45:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CCTV-娱乐.png",CCTV-娱乐
+http://110.72.103.111:808/hls/66/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CCTV11-戏曲.png",CCTV11-戏曲
 http://114.245.198.169:85/tsfile/live/11/1011_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CCTV11-戏曲.png",CCTV11-戏曲
-http://123.118.53.84:45237/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CCTV14.png",CCTV14
 http://182.91.79.82:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CCTV14-少儿.png",CCTV14-少儿
 http://114.245.198.169:85/tsfile/live/14/1014_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CCTV14少儿.png",CCTV14少儿
+http://39.81.185.254:1234/624878440
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CCTV15.png",CCTV15
 http://182.91.79.82:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CCTV15-音乐.png",CCTV15-音乐
 http://114.245.198.169:85/tsfile/live/15/1015_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CCTV15-音乐.png",CCTV15-音乐
-http://123.118.53.84:45237/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CCTV15音乐.png",CCTV15音乐
+http://39.81.185.254:1234/673168223
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CCTV16.png",CCTV16
 http://182.91.79.82:85/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CCTV17.png",CCTV17
 http://182.91.79.82:85/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CCTV17农业农村.png",CCTV17农业农村
+http://39.81.185.254:1234/673168256
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CCTV4-国际.png",CCTV4-国际
 http://114.245.198.169:85/tsfile/live/4/1004_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CCTV4-国际.png",CCTV4-国际
-http://123.118.53.84:45237/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CCTV4欧洲.png",CCTV4欧洲
+http://39.81.185.254:1234/608807419
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CCTV4美洲.png",CCTV4美洲
+http://39.81.185.254:1234/608807416
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CCTV兵器高清.png",CCTV兵器高清
 http://120.238.84.45:9901/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CETV1.png",CETV1
+http://39.81.185.254:1234/923287154
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CETV2.png",CETV2
+http://39.81.185.254:1234/923287211
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CETV4.png",CETV4
+http://39.81.185.254:1234/923287339
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CGTN.png",CGTN
+http://39.81.185.254:1234/609017205
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CGTN俄语.png",CGTN俄语
+http://39.81.185.254:1234/609006446
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CGTN外语纪录.png",CGTN外语纪录
+http://39.81.185.254:1234/609006487
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CGTN法语.png",CGTN法语
+http://39.81.185.254:1234/609006476
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CGTN西班牙语.png",CGTN西班牙语
+http://39.81.185.254:1234/609006450
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CGTN阿拉伯语.png",CGTN阿拉伯语
+http://39.81.185.254:1234/609154345
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CPB中国棒球城市联赛 北京正大龙VS厦门海豚 清流播出 18:30.png",CPB中国棒球城市联赛 北京正大龙VS厦门海豚 清流播出 18:30
+http://39.81.185.254:1234/967034490
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CPB中国棒球城市联赛 北京正大龙VS厦门海豚 清流播出 18:30.png",CPB中国棒球城市联赛 北京正大龙VS厦门海豚 清流播出 18:30
+http://39.81.185.254:1234/967034511
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CPB中国棒球城市联赛 福州海侠VS长沙旺旺 清流播出 18:00.png",CPB中国棒球城市联赛 福州海侠VS长沙旺旺 清流播出 18:00
+http://39.81.185.254:1234/967034486
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/CPB中国棒球城市联赛 长沙旺旺VS福州海侠 清流播出 18:00.png",CPB中国棒球城市联赛 长沙旺旺VS福州海侠 清流播出 18:00
+http://39.81.185.254:1234/967034475
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/IPTV-3.png",IPTV-3
+http://110.72.103.111:808/hls/2012/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/IPTV-5.png",IPTV-5
+http://110.72.103.111:808/hls/2014/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/IPTV-6.png",IPTV-6
+http://110.72.103.111:808/hls/2015/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/IPTV-8.png",IPTV-8
+http://110.72.103.111:808/hls/2017/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/IPTV法治.png",IPTV法治
+http://110.72.103.111:808/hls/1028/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/IPTV野外.png",IPTV野外
+http://110.72.103.111:808/hls/1027/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/NBA经典赛事 NBA精彩重播：快船vs湖人 全场回放 18:00.png",NBA经典赛事 NBA精彩重播：快船vs湖人 全场回放 18:00
+http://39.81.185.254:1234/963184899
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/NBA经典赛事 NBA精彩重播：掘金vs勇士 连睿 周鹏 18:00.png",NBA经典赛事 NBA精彩重播：掘金vs勇士 连睿 周鹏 18:00
+http://39.81.185.254:1234/966323759
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/NBA经典赛事 NBA精彩重播：魔术vs湖人 杨健 曾令旭 佳依 18:00.png",NBA经典赛事 NBA精彩重播：魔术vs湖人 杨健 曾令旭 佳依 18:00
+http://39.81.185.254:1234/966323774
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/WTT 男女单打资格赛第三轮、男女双打资格赛第一轮 1号桌 19:00.png",WTT 男女单打资格赛第三轮、男女双打资格赛第一轮 1号桌 19:00
+http://39.81.185.254:1234/966866379
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/WTT 男女单打资格赛第三轮、男女双打资格赛第一轮 2号桌 19:00.png",WTT 男女单打资格赛第三轮、男女双打资格赛第一轮 2号桌 19:00
+http://39.81.185.254:1234/966866399
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/WTT 男女单打资格赛第三轮、男女双打资格赛第一轮 3号桌 19:00.png",WTT 男女单打资格赛第三轮、男女双打资格赛第一轮 3号桌 19:00
+http://39.81.185.254:1234/966866405
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/WTT 男女单打资格赛第三轮、男女双打资格赛第一轮 4号桌 19:00.png",WTT 男女单打资格赛第三轮、男女双打资格赛第一轮 4号桌 19:00
+http://39.81.185.254:1234/966866417
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/WTT 男女单打资格赛第三轮、男女双打资格赛第一轮 徐铭辰 19:00.png",WTT 男女单打资格赛第三轮、男女双打资格赛第一轮 徐铭辰 19:00
+http://39.81.185.254:1234/966866425
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/WTT 男女单打资格赛第二轮、混双资格赛第一轮 1号桌 13:00.png",WTT 男女单打资格赛第二轮、混双资格赛第一轮 1号桌 13:00
+http://39.81.185.254:1234/966866273
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/WTT 男女单打资格赛第二轮、混双资格赛第一轮 2号桌 13:00.png",WTT 男女单打资格赛第二轮、混双资格赛第一轮 2号桌 13:00
+http://39.81.185.254:1234/966866316
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/WTT 男女单打资格赛第二轮、混双资格赛第一轮 3号桌 13:00.png",WTT 男女单打资格赛第二轮、混双资格赛第一轮 3号桌 13:00
+http://39.81.185.254:1234/966866323
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/WTT 男女单打资格赛第二轮、混双资格赛第一轮 4号桌 13:00.png",WTT 男女单打资格赛第二轮、混双资格赛第一轮 4号桌 13:00
+http://39.81.185.254:1234/966866343
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/WTT 男女单打资格赛第二轮、混双资格赛第一轮 凌维康 赵曦 13:00.png",WTT 男女单打资格赛第二轮、混双资格赛第一轮 凌维康 赵曦 13:00
+http://39.81.185.254:1234/966866348
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/WTT 维瓦雷利迎首秀 肯日古洛夫冲正赛席 1号桌 19:00.png",WTT 维瓦雷利迎首秀 肯日古洛夫冲正赛席 1号桌 19:00
+http://39.81.185.254:1234/966866175
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/WTT 维瓦雷利迎首秀 肯日古洛夫冲正赛席 2号桌 19:00.png",WTT 维瓦雷利迎首秀 肯日古洛夫冲正赛席 2号桌 19:00
+http://39.81.185.254:1234/966866198
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/WTT 维瓦雷利迎首秀 肯日古洛夫冲正赛席 3号桌 19:00.png",WTT 维瓦雷利迎首秀 肯日古洛夫冲正赛席 3号桌 19:00
+http://39.81.185.254:1234/966866221
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/WTT 维瓦雷利迎首秀 肯日古洛夫冲正赛席 4号桌 19:00.png",WTT 维瓦雷利迎首秀 肯日古洛夫冲正赛席 4号桌 19:00
+http://39.81.185.254:1234/966866240
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/WTT 维瓦雷利迎首秀 肯日古洛夫冲正赛席 赵曦 刘馨蕊 19:00.png",WTT 维瓦雷利迎首秀 肯日古洛夫冲正赛席 赵曦 刘馨蕊 19:00
+http://39.81.185.254:1234/966866250
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/上海新闻综合.png",上海新闻综合
+http://39.81.185.254:1234/651632657
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/上海第一财经.png",上海第一财经
+http://39.81.185.254:1234/608780988
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/上视东方影视.png",上视东方影视
+http://39.81.185.254:1234/617290047
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/世界地理.png",世界地理
 http://120.238.84.45:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/东方卫视-高清.png",东方卫视-高清
 http://114.245.198.169:85/tsfile/live/41/1041_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/东方海外.png",东方海外
+http://110.72.103.111:808/hls/69/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/东方高清.png",东方高清
-http://110.72.103.95:808/hls/1004/index.m3u8
+http://110.72.103.111:808/hls/1004/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/东方高清.png",东方高清
 http://110.72.82.241:808/hls/1004/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/东方高清.png",东方高清
+http://110.72.103.95:808/hls/1004/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/中华特产.png",中华特产
+http://39.81.185.254:1234/959986618
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/中国农林卫视.png",中国农林卫视
+http://39.81.185.254:1234/956904896
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/中国天气.png",中国天气
+http://39.81.185.254:1234/959986621
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/中国教育1.png",中国教育1
+http://110.72.103.111:808/hls/129/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/中国教育高清.png",中国教育高清
 http://120.238.84.45:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/中国电影.png",中国电影
+http://110.72.103.111:808/hls/61/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/中国电影2.png",中国电影2
+http://110.72.103.111:808/hls/65/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/中国篮协“未来杯”国际篮球挑战赛 CIA Bella Vista预科学院VS中国U18男篮 清流播出 19:20.png",中国篮协“未来杯”国际篮球挑战赛 CIA Bella Vista预科学院VS中国U18男篮 清流播出 19:20
+http://39.81.185.254:1234/967154869
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/中国篮协“未来杯”国际篮球挑战赛 CIA Bella Vista预科学院VS中国U18男篮 赛场原声 19:20.png",中国篮协“未来杯”国际篮球挑战赛 CIA Bella Vista预科学院VS中国U18男篮 赛场原声 19:20
+http://39.81.185.254:1234/967154835
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/中国篮协“未来杯”国际篮球挑战赛 VERITAS Academy预科学院VS清华附中 清流播出 16:20.png",中国篮协“未来杯”国际篮球挑战赛 VERITAS Academy预科学院VS清华附中 清流播出 16:20
+http://39.81.185.254:1234/967154754
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/中国篮协“未来杯”国际篮球挑战赛 VERITAS Academy预科学院VS清华附中 赛场原声 16:20.png",中国篮协“未来杯”国际篮球挑战赛 VERITAS Academy预科学院VS清华附中 赛场原声 16:20
+http://39.81.185.254:1234/967154780
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/中国篮协“未来杯”国际篮球挑战赛 中国U18男篮VSVERITAS Academy预科学院 清流播出 19:20.png",中国篮协“未来杯”国际篮球挑战赛 中国U18男篮VSVERITAS Academy预科学院 清流播出 19:20
+http://39.81.185.254:1234/967154692
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/中国篮协“未来杯”国际篮球挑战赛 中国U18男篮VSVERITAS Academy预科学院 赛场原声 19:20.png",中国篮协“未来杯”国际篮球挑战赛 中国U18男篮VSVERITAS Academy预科学院 赛场原声 19:20
+http://39.81.185.254:1234/967154710
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/中国篮协“未来杯”国际篮球挑战赛 清华附中VSCIA Bella Vista预科学院 清流播出 16:20.png",中国篮协“未来杯”国际篮球挑战赛 清华附中VSCIA Bella Vista预科学院 清流播出 16:20
+http://39.81.185.254:1234/967154651
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/中国篮协“未来杯”国际篮球挑战赛 清华附中VSCIA Bella Vista预科学院 赛场原声 16:20.png",中国篮协“未来杯”国际篮球挑战赛 清华附中VSCIA Bella Vista预科学院 赛场原声 16:20
+http://39.81.185.254:1234/967154658
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/中学生.png",中学生
+http://39.81.185.254:1234/708869532
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/优漫卡通.png",优漫卡通
+http://110.72.103.111:808/hls/31/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/优漫卡通频道.png",优漫卡通频道
+http://39.81.185.254:1234/626064703
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/体坛名栏汇.png",体坛名栏汇
+http://39.81.185.254:1234/629943305
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/体育休闲频道.png",体育休闲频道
+http://39.81.185.254:1234/626064707
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/公共新闻频道.png",公共新闻频道
+http://39.81.185.254:1234/626064693
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/兴宁台.png",兴宁台
 http://120.238.84.45:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/农林卫视.png",农林卫视
+http://110.72.103.111:808/hls/18/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/劲爆体育.png",劲爆体育
 http://120.238.84.45:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/北京国际.png",北京国际
+http://110.72.103.111:808/hls/68/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/北京高清.png",北京高清
+http://110.72.103.111:808/hls/1005/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/南京十八频道.png",南京十八频道
+http://39.81.185.254:1234/838151753
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/南京教科频道.png",南京教科频道
+http://39.81.185.254:1234/838153729
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/南京新闻综合频道.png",南京新闻综合频道
+http://39.81.185.254:1234/838109047
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/南方一高清.png",南方一高清
 http://120.238.84.45:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/喜剧影院.png",喜剧影院
-http://123.118.53.84:45237/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/南方卫视.png",南方卫视
+http://110.72.103.111:808/hls/81/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/南方影视.png",南方影视
+http://39.81.185.254:1234/614961829
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/南通新闻综合.png",南通新闻综合
+http://39.81.185.254:1234/955227985
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/卡酷动漫.png",卡酷动漫
+http://110.72.103.111:808/hls/138/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/发现之旅.png",发现之旅
+http://39.81.185.254:1234/624878970
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/和美乡途轮播台.png",和美乡途轮播台
+http://39.81.185.254:1234/713591450
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/咪咕体育日报 undefined 咪咕体育日报 第167期 08:00.png",咪咕体育日报 undefined 咪咕体育日报 第167期 08:00
+http://39.81.185.254:1234/967158168
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/咪咕体育日报 undefined 咪咕体育日报 第168期 08:00.png",咪咕体育日报 undefined 咪咕体育日报 第168期 08:00
+http://39.81.185.254:1234/967158145
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/嘉佳卡通.png",嘉佳卡通
 http://120.238.84.45:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/嘉佳卡通.png",嘉佳卡通
+http://39.81.185.254:1234/614952364
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/嘉嘉卡通.png",嘉嘉卡通
+http://110.72.103.111:808/hls/12/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/四海钓鱼.png",四海钓鱼
+http://39.81.185.254:1234/637444975
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/天津卫视-高清.png",天津卫视-高清
 http://114.245.198.169:85/tsfile/live/30/1030_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/天津高清.png",天津高清
+http://110.72.103.111:808/hls/1009/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/央视文化.png",央视文化
 http://120.238.84.45:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/少儿动画.png",少儿动画
-http://123.118.53.84:45237/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/安多卫视.png",安多卫视
+http://110.72.103.111:808/hls/4/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/宜兴新闻综合.png",宜兴新闻综合
+http://39.81.185.254:1234/955227996
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/宿迁新闻综合.png",宿迁新闻综合
+http://39.81.185.254:1234/639731832
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/少儿卫视.png",少儿卫视
 http://120.238.84.45:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/山东教育.png",山东教育
+http://110.72.103.111:808/hls/36/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/山东教育.png",山东教育
+http://39.81.185.254:1234/609154353
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/山东高清.png",山东高清
+http://110.72.103.111:808/hls/1011/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/平南综合频道.png",平南综合频道
+http://110.72.103.111:808/hls/6/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/广东体育.png",广东体育
+http://110.72.103.111:808/hls/13/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/广东体育高清.png",广东体育高清
 http://120.238.84.45:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/广东卫视-高清.png",广东卫视-高清
 http://114.245.198.169:85/tsfile/live/45/1045_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/广东影视.png",广东影视
+http://110.72.103.111:808/hls/59/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/广东珠江频道.png",广东珠江频道
+http://39.81.185.254:1234/639731952
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/广东珠江高清.png",广东珠江高清
 http://120.238.84.45:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/广东高清.png",广东高清
+http://110.72.103.111:808/hls/1002/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/广告宣传.png",广告宣传
+http://110.72.103.111:808/hls/10/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/广告宣传.png",广告宣传
 http://110.72.81.174:808/hls/10/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/广西公共.png",广西公共
+http://110.72.103.111:808/hls/202/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/广西影视.png",广西影视
+http://110.72.103.111:808/hls/201/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/广西影视.png",广西影视
 http://110.72.81.174:808/hls/201/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/广西新闻.png",广西新闻
-http://110.72.103.95:808/hls/206/index.m3u8
+http://110.72.103.111:808/hls/206/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/广西新闻.png",广西新闻
+http://182.91.79.82:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/广西新闻.png",广西新闻
 http://110.72.82.241:808/hls/206/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/广西新闻.png",广西新闻
-http://182.91.79.82:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
+http://110.72.103.95:808/hls/206/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/广西综艺.png",广西综艺
+http://110.72.103.111:808/hls/334/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/广西综艺.png",广西综艺
 http://110.72.81.174:808/hls/334/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/广西都市.png",广西都市
-http://110.72.103.95:808/hls/204/index.m3u8
+http://110.72.103.111:808/hls/204/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/广西都市.png",广西都市
 http://110.72.82.241:808/hls/204/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/广西都市.png",广西都市
+http://110.72.103.95:808/hls/204/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/广西高清.png",广西高清
+http://110.72.103.111:808/hls/1001/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/建党105周年巡礼.png",建党105周年巡礼
+http://39.81.185.254:1234/713600957
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/徐州新闻综合.png",徐州新闻综合
+http://39.81.185.254:1234/639731747
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/快乐垂钓.png",快乐垂钓
+http://39.81.185.254:1234/961930263
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/怀旧剧场.png",怀旧剧场
 http://120.238.84.45:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/意大利杯 帕尔马VS克雷莫内塞 张昊泽 23:45.png",意大利杯 帕尔马VS克雷莫内塞 张昊泽 23:45
+http://39.81.185.254:1234/967027472
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/意大利杯 帕尔马VS克雷莫内塞 赛场原声 23:45.png",意大利杯 帕尔马VS克雷莫内塞 赛场原声 23:45
+http://39.81.185.254:1234/967027457
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/意大利杯 萨索洛VS弗罗西诺内 涂远 20:45.png",意大利杯 萨索洛VS弗罗西诺内 涂远 20:45
+http://39.81.185.254:1234/967027397
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/意大利杯 萨索洛VS弗罗西诺内 赛场原声 20:45.png",意大利杯 萨索洛VS弗罗西诺内 赛场原声 20:45
+http://39.81.185.254:1234/967027385
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/意大利杯 都灵VS蒙扎 乔迁 02:45.png",意大利杯 都灵VS蒙扎 乔迁 02:45
+http://39.81.185.254:1234/967027438
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/意大利杯 都灵VS蒙扎 赛场原声 02:45.png",意大利杯 都灵VS蒙扎 赛场原声 02:45
+http://39.81.185.254:1234/967027411
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/意甲 亚特兰大VS博洛尼亚 张昊泽 02:30.png",意甲 亚特兰大VS博洛尼亚 张昊泽 02:30
+http://39.81.185.254:1234/967027489
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/意甲 亚特兰大VS博洛尼亚 赛场原声 02:30.png",意甲 亚特兰大VS博洛尼亚 赛场原声 02:30
+http://39.81.185.254:1234/967027481
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/意甲 卡利亚里VS国际米兰 全场回放（贺宇、刘腾） 02:30.png",意甲 卡利亚里VS国际米兰 全场回放（贺宇、刘腾） 02:30
+http://39.81.185.254:1234/967149931
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/意甲 拉齐奥VS热那亚 全场回放（吴奕博） 02:30.png",意甲 拉齐奥VS热那亚 全场回放（吴奕博） 02:30
+http://39.81.185.254:1234/967148684
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/意甲 莱切VS罗马 谭逸雄 00:15.png",意甲 莱切VS罗马 谭逸雄 00:15
+http://39.81.185.254:1234/967027562
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/意甲 莱切VS罗马 赛场原声 00:15.png",意甲 莱切VS罗马 赛场原声 00:15
+http://39.81.185.254:1234/967027547
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/意甲 那不勒斯VS科莫 全场回放（鲁靖明、涂远） 00:15.png",意甲 那不勒斯VS科莫 全场回放（鲁靖明、涂远） 00:15
+http://39.81.185.254:1234/967144060
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/攀岩系列赛 中国速度攀岩系列赛（湖南长沙站）Day3 2026年中国速度攀岩系列赛湖南长沙站Day3全场回放（官方解说） 17:30.png",攀岩系列赛 中国速度攀岩系列赛（湖南长沙站）Day3 2026年中国速度攀岩系列赛湖南长沙站Day3全场回放（官方解说） 17:30
+http://39.81.185.254:1234/967165670
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 吴宜泽4-3刘宏宇！丁俊晖轻松晋级 【回放】丁俊晖4-1安东·卡扎科夫（乔迁） 21:00.png",斯诺克 吴宜泽4-3刘宏宇！丁俊晖轻松晋级 【回放】丁俊晖4-1安东·卡扎科夫（乔迁） 21:00
+http://39.81.185.254:1234/967164458
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 吴宜泽4-3刘宏宇！丁俊晖轻松晋级 【回放】丁俊晖4-1安东·卡扎科夫（赛场原声） 21:00.png",斯诺克 吴宜泽4-3刘宏宇！丁俊晖轻松晋级 【回放】丁俊晖4-1安东·卡扎科夫（赛场原声） 21:00
+http://39.81.185.254:1234/967164965
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 吴宜泽4-3刘宏宇！丁俊晖轻松晋级 【回放】吴宜泽4-3刘宏宇（柏林） 21:00.png",斯诺克 吴宜泽4-3刘宏宇！丁俊晖轻松晋级 【回放】吴宜泽4-3刘宏宇（柏林） 21:00
+http://39.81.185.254:1234/967167468
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 吴宜泽4-3刘宏宇！丁俊晖轻松晋级 【回放】尤里安·博伊科4-2许医尘（赛场原声） 21:00.png",斯诺克 吴宜泽4-3刘宏宇！丁俊晖轻松晋级 【回放】尤里安·博伊科4-2许医尘（赛场原声） 21:00
+http://39.81.185.254:1234/967167481
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 吴宜泽4-3刘宏宇！丁俊晖轻松晋级 【回放】巴里·霍金斯4-0邓壕辉（赛场原声） 21:00.png",斯诺克 吴宜泽4-3刘宏宇！丁俊晖轻松晋级 【回放】巴里·霍金斯4-0邓壕辉（赛场原声） 21:00
+http://39.81.185.254:1234/967167857
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 吴宜泽4-3刘宏宇！丁俊晖轻松晋级 【回放】弗洛里安·努斯勒1-4凯伦·威尔逊（赛场原声） 21:00.png",斯诺克 吴宜泽4-3刘宏宇！丁俊晖轻松晋级 【回放】弗洛里安·努斯勒1-4凯伦·威尔逊（赛场原声） 21:00
+http://39.81.185.254:1234/967168208
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 吴宜泽4-3刘宏宇！丁俊晖轻松晋级 【回放】肖恩·墨菲4-0瑞安·埃文斯（赛场原声） 21:00.png",斯诺克 吴宜泽4-3刘宏宇！丁俊晖轻松晋级 【回放】肖恩·墨菲4-0瑞安·埃文斯（赛场原声） 21:00
+http://39.81.185.254:1234/967164545
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 吴宜泽4-3刘宏宇！丁俊晖轻松晋级 【回放】马克·威廉姆斯0-4大卫·吉尔伯特（赛场原声） 21:00.png",斯诺克 吴宜泽4-3刘宏宇！丁俊晖轻松晋级 【回放】马克·威廉姆斯0-4大卫·吉尔伯特（赛场原声） 21:00
+http://39.81.185.254:1234/967164339
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 巩晨智VS贺国强 1号桌 17:00.png",斯诺克 巩晨智VS贺国强 1号桌 17:00
+http://39.81.185.254:1234/967153672
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 巩晨智VS贺国强 2号桌 17:00.png",斯诺克 巩晨智VS贺国强 2号桌 17:00
+http://39.81.185.254:1234/967153690
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 巩晨智VS贺国强 3号桌 17:00.png",斯诺克 巩晨智VS贺国强 3号桌 17:00
+http://39.81.185.254:1234/967153701
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 巩晨智VS贺国强 4号桌 17:00.png",斯诺克 巩晨智VS贺国强 4号桌 17:00
+http://39.81.185.254:1234/967153718
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 斯诺克英国公开赛第二/三轮下午场 1号桌 17:00.png",斯诺克 斯诺克英国公开赛第二/三轮下午场 1号桌 17:00
+http://39.81.185.254:1234/967153469
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 斯诺克英国公开赛第二/三轮下午场 2号桌 17:00.png",斯诺克 斯诺克英国公开赛第二/三轮下午场 2号桌 17:00
+http://39.81.185.254:1234/967153495
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 斯诺克英国公开赛第二/三轮下午场 3号桌 17:00.png",斯诺克 斯诺克英国公开赛第二/三轮下午场 3号桌 17:00
+http://39.81.185.254:1234/967153519
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 斯诺克英国公开赛第二/三轮下午场 4号桌 17:00.png",斯诺克 斯诺克英国公开赛第二/三轮下午场 4号桌 17:00
+http://39.81.185.254:1234/967153552
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 斯诺克英国公开赛第二轮凌晨场 1号桌 02:00.png",斯诺克 斯诺克英国公开赛第二轮凌晨场 1号桌 02:00
+http://39.81.185.254:1234/967153822
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 斯诺克英国公开赛第二轮凌晨场 2号桌 02:00.png",斯诺克 斯诺克英国公开赛第二轮凌晨场 2号桌 02:00
+http://39.81.185.254:1234/967153837
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 斯诺克英国公开赛第二轮凌晨场 3号桌 02:00.png",斯诺克 斯诺克英国公开赛第二轮凌晨场 3号桌 02:00
+http://39.81.185.254:1234/967153866
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 斯诺克英国公开赛第二轮凌晨场 4号桌 02:00.png",斯诺克 斯诺克英国公开赛第二轮凌晨场 4号桌 02:00
+http://39.81.185.254:1234/967153887
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 白雨露登场 1号桌 20:00.png",斯诺克 白雨露登场 1号桌 20:00
+http://39.81.185.254:1234/967153586
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 白雨露登场 2号桌 20:00.png",斯诺克 白雨露登场 2号桌 20:00
+http://39.81.185.254:1234/967153642
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 白雨露登场 3号桌 20:00.png",斯诺克 白雨露登场 3号桌 20:00
+http://39.81.185.254:1234/967153648
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 白雨露登场 4号桌 20:00.png",斯诺克 白雨露登场 4号桌 20:00
+http://39.81.185.254:1234/967153666
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 肖国栋VS江俊 希金斯塞尔比出战 1号桌 02:00.png",斯诺克 肖国栋VS江俊 希金斯塞尔比出战 1号桌 02:00
+http://39.81.185.254:1234/967153615
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 肖国栋VS江俊 希金斯塞尔比出战 2号桌 02:00.png",斯诺克 肖国栋VS江俊 希金斯塞尔比出战 2号桌 02:00
+http://39.81.185.254:1234/967153625
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 肖国栋VS江俊 希金斯塞尔比出战 3号桌 02:00.png",斯诺克 肖国栋VS江俊 希金斯塞尔比出战 3号桌 02:00
+http://39.81.185.254:1234/967153638
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 肖国栋VS江俊 希金斯塞尔比出战 4号桌 02:00.png",斯诺克 肖国栋VS江俊 希金斯塞尔比出战 4号桌 02:00
+http://39.81.185.254:1234/967153646
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 肖国栋VS江俊 希金斯塞尔比出战 朱峰立 02:00.png",斯诺克 肖国栋VS江俊 希金斯塞尔比出战 朱峰立 02:00
+http://39.81.185.254:1234/967153651
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 赵心童常冰玉登场！ 1号桌 20:00.png",斯诺克 赵心童常冰玉登场！ 1号桌 20:00
+http://39.81.185.254:1234/967153739
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 赵心童常冰玉登场！ 2号桌 20:00.png",斯诺克 赵心童常冰玉登场！ 2号桌 20:00
+http://39.81.185.254:1234/967153759
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 赵心童常冰玉登场！ 3号桌 20:00.png",斯诺克 赵心童常冰玉登场！ 3号桌 20:00
+http://39.81.185.254:1234/967153779
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/斯诺克 赵心童常冰玉登场！ 4号桌 20:00.png",斯诺克 赵心童常冰玉登场！ 4号桌 20:00
+http://39.81.185.254:1234/967153807
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/新动力量创一流.png",新动力量创一流
+http://39.81.185.254:1234/713589837
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/新动漫.png",新动漫
+http://39.81.185.254:1234/961930269
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/新片放映厅.png",新片放映厅
+http://39.81.185.254:1234/619495952
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/新视觉高清.png",新视觉高清
 http://120.238.84.45:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/明珠台.png",明珠台
 http://120.238.84.45:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/星空卫视.png",星空卫视
+http://110.72.103.111:808/hls/226879611/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/最强综艺趴.png",最强综艺趴
+http://39.81.185.254:1234/629942228
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/梅县台.png",梅县台
 http://120.238.84.45:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/梅州-1.png",梅州-1
@@ -413,54 +785,394 @@ http://120.238.84.45:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 http://120.238.84.45:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/梅州山歌文艺.png",梅州山歌文艺
 http://120.238.84.45:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/梨园频道.png",梨园频道
+http://39.81.185.254:1234/961930369
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/武术世界.png",武术世界
+http://39.81.185.254:1234/958475359
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/江苏卫视-高清.png",江苏卫视-高清
 http://114.245.198.169:85/tsfile/live/28/1028_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/江苏国际.png",江苏国际
+http://39.81.185.254:1234/626064674
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/江苏城市频道.png",江苏城市频道
+http://39.81.185.254:1234/626064714
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/江苏影视频道.png",江苏影视频道
+http://39.81.185.254:1234/626064697
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/江苏教育.png",江苏教育
+http://39.81.185.254:1234/628008321
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/江苏综艺频道.png",江苏综艺频道
+http://39.81.185.254:1234/626065193
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/江苏高清.png",江苏高清
-http://110.72.103.95:808/hls/1007/index.m3u8
+http://110.72.103.111:808/hls/1007/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/江苏高清.png",江苏高清
 http://110.72.82.241:808/hls/1007/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/江苏高清.png",江苏高清
+http://110.72.103.95:808/hls/1007/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/江阴新闻综合.png",江阴新闻综合
+http://39.81.185.254:1234/955227979
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/河北卫视-高清.png",河北卫视-高清
 http://114.245.198.169:85/tsfile/live/44/1044_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/法治天地.png",法治天地
+http://110.72.103.111:808/hls/207/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/法甲 摩纳哥VS马赛 全场回放（张天翼） 02:30.png",法甲 摩纳哥VS马赛 全场回放（张天翼） 02:30
+http://39.81.185.254:1234/967149253
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/泰州新闻综合.png",泰州新闻综合
+http://39.81.185.254:1234/639731818
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/测试-TVBJ.png",测试-TVBJ
+http://110.72.103.111:808/hls/58/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/测试-TVB剧集/体彩.png",测试-TVB剧集/体彩
+http://110.72.103.111:808/hls/57/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/浙江卫视-高清.png",浙江卫视-高清
 http://114.245.198.169:85/tsfile/live/27/1027_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/浙江高清.png",浙江高清
-http://110.72.103.95:808/hls/1006/index.m3u8
+http://110.72.103.111:808/hls/1006/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/浙江高清.png",浙江高清
 http://110.72.82.241:808/hls/1006/index.m3u8
-#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/淘电影.png",淘电影
-http://123.118.53.84:45237/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/浙江高清.png",浙江高清
+http://110.72.103.95:808/hls/1006/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/海南广播电视总台少儿频道.png",海南广播电视总台少儿频道
+http://39.81.185.254:1234/962067523
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/海南广播电视总台文旅频道.png",海南广播电视总台文旅频道
+http://39.81.185.254:1234/962067526
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/海南广播电视总台新闻频道.png",海南广播电视总台新闻频道
+http://39.81.185.254:1234/962067517
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/海南广播电视总台社会与法频道.png",海南广播电视总台社会与法频道
+http://39.81.185.254:1234/962045223
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/海南广播电视总台自贸频道.png",海南广播电视总台自贸频道
+http://39.81.185.254:1234/962045226
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/海峡卫视.png",海峡卫视
+http://110.72.103.111:808/hls/590478925/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/海峡卫视.png",海峡卫视
+http://39.81.185.254:1234/849119120
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/淮安新闻综合.png",淮安新闻综合
+http://39.81.185.254:1234/639731826
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/深圳高清.png",深圳高清
-http://110.72.103.95:808/hls/1008/index.m3u8
+http://110.72.103.111:808/hls/1008/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/深圳高清.png",深圳高清
 http://110.72.82.241:808/hls/1008/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/深圳高清.png",深圳高清
+http://110.72.103.95:808/hls/1008/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/游戏风云.png",游戏风云
+http://110.72.103.111:808/hls/215/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/湖北卫视-高清.png",湖北卫视-高清
 http://114.245.198.169:85/tsfile/live/40/1040_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/湖北高清.png",湖北高清
-http://110.72.103.95:808/hls/1010/index.m3u8
+http://110.72.103.111:808/hls/1010/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/湖北高清.png",湖北高清
 http://110.72.82.241:808/hls/1010/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/湖北高清.png",湖北高清
+http://110.72.103.95:808/hls/1010/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/湖南高清.png",湖南高清
+http://110.72.103.111:808/hls/1003/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/溧水新闻综合.png",溧水新闻综合
+http://39.81.185.254:1234/639737327
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/炫动卡通.png",炫动卡通
+http://110.72.103.111:808/hls/28/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/熊猫频道01高清.png",熊猫频道01高清
+http://39.81.185.254:1234/609158151
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/熊猫频道1.png",熊猫频道1
+http://39.81.185.254:1234/608933610
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/熊猫频道10.png",熊猫频道10
+http://39.81.185.254:1234/609169285
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/熊猫频道2.png",熊猫频道2
+http://39.81.185.254:1234/608933640
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/熊猫频道3.png",熊猫频道3
+http://39.81.185.254:1234/608934619
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/熊猫频道4.png",熊猫频道4
+http://39.81.185.254:1234/608934721
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/熊猫频道5.png",熊猫频道5
+http://39.81.185.254:1234/608935104
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/熊猫频道6.png",熊猫频道6
+http://39.81.185.254:1234/608935797
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/熊猫频道7.png",熊猫频道7
+http://39.81.185.254:1234/609169286
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/熊猫频道8.png",熊猫频道8
+http://39.81.185.254:1234/609169287
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/熊猫频道9.png",熊猫频道9
+http://39.81.185.254:1234/609169226
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/环球旅游.png",环球旅游
+http://39.81.185.254:1234/958475356
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/珠江台.png",珠江台
+http://110.72.103.111:808/hls/24/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 中国VS黎巴嫩 全场回放（庄宁宇、杨鸣、陈正昊） 19:20.png",男篮世预赛 中国VS黎巴嫩 全场回放（庄宁宇、杨鸣、陈正昊） 19:20
+http://39.81.185.254:1234/967164429
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 中国VS黎巴嫩 全场回放（赛场原声） 19:20.png",男篮世预赛 中国VS黎巴嫩 全场回放（赛场原声） 19:20
+http://39.81.185.254:1234/967165291
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 中国VS黎巴嫩 全场回放（连睿、周琦、周鹏、秋童） 19:20.png",男篮世预赛 中国VS黎巴嫩 全场回放（连睿、周琦、周鹏、秋童） 19:20
+http://39.81.185.254:1234/967164450
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 乌拉圭VS波多黎各 赛场原声 07:00.png",男篮世预赛 乌拉圭VS波多黎各 赛场原声 07:00
+http://39.81.185.254:1234/966985585
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 冰岛VS土耳其 周鹏 03:20.png",男篮世预赛 冰岛VS土耳其 周鹏 03:20
+http://39.81.185.254:1234/966984481
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 冰岛VS土耳其 赛场原声 03:20.png",男篮世预赛 冰岛VS土耳其 赛场原声 03:20
+http://39.81.185.254:1234/966984465
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 加拿大VS阿根廷 赛场原声 07:00.png",男篮世预赛 加拿大VS阿根廷 赛场原声 07:00
+http://39.81.185.254:1234/966985570
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 加拿大VS阿根廷 邢晨 07:00.png",男篮世预赛 加拿大VS阿根廷 邢晨 07:00
+http://39.81.185.254:1234/966985576
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 墨西哥VS巴西 赛场原声 10:00.png",男篮世预赛 墨西哥VS巴西 赛场原声 10:00
+http://39.81.185.254:1234/966985610
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 多米尼加VS智利 赛场原声 08:00.png",男篮世预赛 多米尼加VS智利 赛场原声 08:00
+http://39.81.185.254:1234/966985589
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 巴哈马VS巴拿马 殷文玉 08:00.png",男篮世预赛 巴哈马VS巴拿马 殷文玉 08:00
+http://39.81.185.254:1234/966985601
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 巴哈马VS巴拿马 赛场原声 08:00.png",男篮世预赛 巴哈马VS巴拿马 赛场原声 08:00
+http://39.81.185.254:1234/966985598
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 希腊VS西班牙 吴博文 23:50.png",男篮世预赛 希腊VS西班牙 吴博文 23:50
+http://39.81.185.254:1234/966984373
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 希腊VS西班牙 赛场原声 23:50.png",男篮世预赛 希腊VS西班牙 赛场原声 23:50
+http://39.81.185.254:1234/966984359
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 意大利VS塞尔维亚 孔德昕 01:20.png",男篮世预赛 意大利VS塞尔维亚 孔德昕 01:20
+http://39.81.185.254:1234/966984409
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 意大利VS塞尔维亚 赛场原声 01:20.png",男篮世预赛 意大利VS塞尔维亚 赛场原声 01:20
+http://39.81.185.254:1234/966984733
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 拉脱维亚VS以色列 全场回放（赛场原声） 23:50.png",男篮世预赛 拉脱维亚VS以色列 全场回放（赛场原声） 23:50
+http://39.81.185.254:1234/967150378
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 斯洛文尼亚VS匈牙利 全场回放（赛场原声） 01:50.png",男篮世预赛 斯洛文尼亚VS匈牙利 全场回放（赛场原声） 01:50
+http://39.81.185.254:1234/967150214
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 日本VS卡塔尔 全场回放 18:00.png",男篮世预赛 日本VS卡塔尔 全场回放 18:00
+http://39.81.185.254:1234/967163849
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 日本VS卡塔尔 全场回放（殳海） 18:00.png",男篮世预赛 日本VS卡塔尔 全场回放（殳海） 18:00
+http://39.81.185.254:1234/967163370
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 爱沙尼亚VS芬兰 全场回放（赛场原声） 23:50.png",男篮世预赛 爱沙尼亚VS芬兰 全场回放（赛场原声） 23:50
+http://39.81.185.254:1234/967147059
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 突尼斯VS南苏丹 全场回放（赛场原声） 01:50.png",男篮世预赛 突尼斯VS南苏丹 全场回放（赛场原声） 01:50
+http://39.81.185.254:1234/967151291
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 美国VS哥伦比亚 蔡凯臣 06:50.png",男篮世预赛 美国VS哥伦比亚 蔡凯臣 06:50
+http://39.81.185.254:1234/966985564
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 美国VS哥伦比亚 赛场原声 06:50.png",男篮世预赛 美国VS哥伦比亚 赛场原声 06:50
+http://39.81.185.254:1234/966985555
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 葡萄牙VS格鲁吉亚 姜帆 01:50.png",男篮世预赛 葡萄牙VS格鲁吉亚 姜帆 01:50
+http://39.81.185.254:1234/966984446
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 葡萄牙VS格鲁吉亚 赛场原声 01:50.png",男篮世预赛 葡萄牙VS格鲁吉亚 赛场原声 01:50
+http://39.81.185.254:1234/966984658
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 韩国VS沙特阿拉伯 全场回放（盛哲） 17:50.png",男篮世预赛 韩国VS沙特阿拉伯 全场回放（盛哲） 17:50
+http://39.81.185.254:1234/967163241
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 韩国VS沙特阿拉伯 全场回放（赛场原声） 17:50.png",男篮世预赛 韩国VS沙特阿拉伯 全场回放（赛场原声） 17:50
+http://39.81.185.254:1234/967164190
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 马里VS塞内加尔 全场回放（赛场原声） 02:20.png",男篮世预赛 马里VS塞内加尔 全场回放（赛场原声） 02:20
+http://39.81.185.254:1234/967151332
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/男篮世预赛 黑山VS乌克兰 赛场原声 02:20.png",男篮世预赛 黑山VS乌克兰 赛场原声 02:20
+http://39.81.185.254:1234/966984457
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/盐城新闻综合.png",盐城新闻综合
+http://39.81.185.254:1234/639731825
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/相声小品.png",相声小品
+http://110.72.103.111:808/hls/1025/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/相声小品.png",相声小品
 http://120.238.84.45:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/碟战剧场.png",碟战剧场
+http://110.72.103.111:808/hls/1024/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/福建卫视.png",福建卫视
+http://110.72.103.111:808/hls/121/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/经典动画大集合.png",经典动画大集合
+http://39.81.185.254:1234/629942219
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/经典香港电影.png",经典香港电影
+http://39.81.185.254:1234/625703337
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 商竣程VS特兰杰里迪 赛场原声 00:30.png",美国网球公开赛 商竣程VS特兰杰里迪 赛场原声 00:30
+http://39.81.185.254:1234/967157710
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 商竣程VS特兰杰里迪 郭丰庆 00:30.png",美国网球公开赛 商竣程VS特兰杰里迪 郭丰庆 00:30
+http://39.81.185.254:1234/967157733
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 张帅VS费尔南德斯 全场回放 01:00.png",美国网球公开赛 张帅VS费尔南德斯 全场回放 01:00
+http://39.81.185.254:1234/967145008
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 张帅VS费尔南德斯 全场回放（胡力涛） 01:00.png",美国网球公开赛 张帅VS费尔南德斯 全场回放（胡力涛） 01:00
+http://39.81.185.254:1234/967144842
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 斯瓦泰克VS王曦雨 胡力涛 07:00.png",美国网球公开赛 斯瓦泰克VS王曦雨 胡力涛 07:00
+http://39.81.185.254:1234/967157984
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 斯瓦泰克VS王曦雨 赛场原声 07:00.png",美国网球公开赛 斯瓦泰克VS王曦雨 赛场原声 07:00
+http://39.81.185.254:1234/967157974
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第一轮 10号球场 23:00.png",美国网球公开赛 男女单打第一轮 10号球场 23:00
+http://39.81.185.254:1234/967048247
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第一轮 11号球场 23:00.png",美国网球公开赛 男女单打第一轮 11号球场 23:00
+http://39.81.185.254:1234/967048266
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第一轮 12号球场 23:00.png",美国网球公开赛 男女单打第一轮 12号球场 23:00
+http://39.81.185.254:1234/967048280
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第一轮 13号球场 23:00.png",美国网球公开赛 男女单打第一轮 13号球场 23:00
+http://39.81.185.254:1234/967048289
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第一轮 15号球场 23:00.png",美国网球公开赛 男女单打第一轮 15号球场 23:00
+http://39.81.185.254:1234/967048309
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第一轮 17号球场 23:00.png",美国网球公开赛 男女单打第一轮 17号球场 23:00
+http://39.81.185.254:1234/967048186
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第一轮 5号球场 23:00.png",美国网球公开赛 男女单打第一轮 5号球场 23:00
+http://39.81.185.254:1234/967048196
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第一轮 6号球场 23:00.png",美国网球公开赛 男女单打第一轮 6号球场 23:00
+http://39.81.185.254:1234/967048221
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第一轮 7号球场 23:00.png",美国网球公开赛 男女单打第一轮 7号球场 23:00
+http://39.81.185.254:1234/967048237
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第一轮 国际信号 23:00.png",美国网球公开赛 男女单打第一轮 国际信号 23:00
+http://39.81.185.254:1234/967048136
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第一轮 大看台球场 23:00.png",美国网球公开赛 男女单打第一轮 大看台球场 23:00
+http://39.81.185.254:1234/967048171
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第一轮 英文解说 23:00.png",美国网球公开赛 男女单打第一轮 英文解说 23:00
+http://39.81.185.254:1234/967048151
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第一轮 阿姆斯特朗球场 23:00.png",美国网球公开赛 男女单打第一轮 阿姆斯特朗球场 23:00
+http://39.81.185.254:1234/967048113
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第一轮 阿瑟・阿什球场 23:30.png",美国网球公开赛 男女单打第一轮 阿瑟・阿什球场 23:30
+http://39.81.185.254:1234/967048324
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第二轮 10号球场 23:00.png",美国网球公开赛 男女单打第二轮 10号球场 23:00
+http://39.81.185.254:1234/967048543
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第二轮 11号球场 23:00.png",美国网球公开赛 男女单打第二轮 11号球场 23:00
+http://39.81.185.254:1234/967048563
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第二轮 12号球场 23:00.png",美国网球公开赛 男女单打第二轮 12号球场 23:00
+http://39.81.185.254:1234/967048581
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第二轮 13号球场 23:00.png",美国网球公开赛 男女单打第二轮 13号球场 23:00
+http://39.81.185.254:1234/967048600
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第二轮 17号球场 23:00.png",美国网球公开赛 男女单打第二轮 17号球场 23:00
+http://39.81.185.254:1234/967048473
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第二轮 5号球场 23:00.png",美国网球公开赛 男女单打第二轮 5号球场 23:00
+http://39.81.185.254:1234/967048498
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第二轮 7号球场 23:00.png",美国网球公开赛 男女单打第二轮 7号球场 23:00
+http://39.81.185.254:1234/967048515
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第二轮 国际信号 23:00.png",美国网球公开赛 男女单打第二轮 国际信号 23:00
+http://39.81.185.254:1234/967048350
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第二轮 大看台球场 23:00.png",美国网球公开赛 男女单打第二轮 大看台球场 23:00
+http://39.81.185.254:1234/967048462
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第二轮 英文解说 23:00.png",美国网球公开赛 男女单打第二轮 英文解说 23:00
+http://39.81.185.254:1234/967048395
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第二轮 阿姆斯特朗球场 23:00.png",美国网球公开赛 男女单打第二轮 阿姆斯特朗球场 23:00
+http://39.81.185.254:1234/967048437
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 男女单打第二轮 阿瑟・阿什球场 23:00.png",美国网球公开赛 男女单打第二轮 阿瑟・阿什球场 23:00
+http://39.81.185.254:1234/967048421
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 10号球场 23:00.png",美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 10号球场 23:00
+http://39.81.185.254:1234/967048908
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 11号球场 23:00.png",美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 11号球场 23:00
+http://39.81.185.254:1234/967048928
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 12号球场 23:00.png",美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 12号球场 23:00
+http://39.81.185.254:1234/967048947
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 13号球场 23:00.png",美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 13号球场 23:00
+http://39.81.185.254:1234/967048966
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 15号球场 23:00.png",美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 15号球场 23:00
+http://39.81.185.254:1234/967048972
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 17号球场 23:00.png",美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 17号球场 23:00
+http://39.81.185.254:1234/967048602
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 5号球场 23:00.png",美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 5号球场 23:00
+http://39.81.185.254:1234/967048786
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 6号球场 23:00.png",美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 6号球场 23:00
+http://39.81.185.254:1234/967048818
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 7号球场 23:00.png",美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 7号球场 23:00
+http://39.81.185.254:1234/967048839
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 9号球场 23:00.png",美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 9号球场 23:00
+http://39.81.185.254:1234/967048880
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 乔迁 00:30.png",美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 乔迁 00:30
+http://39.81.185.254:1234/967157788
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 单文强 01:00.png",美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 单文强 01:00
+http://39.81.185.254:1234/967157895
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 国际信号 23:00.png",美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 国际信号 23:00
+http://39.81.185.254:1234/967048491
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 大看台球场 23:00.png",美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 大看台球场 23:00
+http://39.81.185.254:1234/967048571
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 英文解说 23:00.png",美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 英文解说 23:00
+http://39.81.185.254:1234/967048517
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 阿姆斯特朗球场 23:00.png",美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 阿姆斯特朗球场 23:00
+http://39.81.185.254:1234/967048545
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 阿瑟・阿什球场 23:30.png",美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 阿瑟・阿什球场 23:30
+http://39.81.185.254:1234/967049001
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 鸿昆 23:00.png",美国网球公开赛 阿卡复出首秀！钦文、萨巴晋级美网次轮 鸿昆 23:00
+http://39.81.185.254:1234/967157134
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 阿朗戈VS王欣瑜 全场回放 02:40.png",美国网球公开赛 阿朗戈VS王欣瑜 全场回放 02:40
+http://39.81.185.254:1234/967148080
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 阿朗戈VS王欣瑜 全场回放（宋光振） 02:40.png",美国网球公开赛 阿朗戈VS王欣瑜 全场回放（宋光振） 02:40
+http://39.81.185.254:1234/967147860
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 黄泽林VS保罗 全场回放 01:00.png",美国网球公开赛 黄泽林VS保罗 全场回放 01:00
+http://39.81.185.254:1234/967148082
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/美国网球公开赛 黄泽林VS保罗 全场回放（刘钟鸣） 01:00.png",美国网球公开赛 黄泽林VS保罗 全场回放（刘钟鸣） 01:00
+http://39.81.185.254:1234/967148756
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/翡翠台.png",翡翠台
 http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/老故事.png",老故事
+http://39.81.185.254:1234/884121956
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/英超 阿斯顿维拉VS阿森纳 4K赛场原声 02:45.png",英超 阿斯顿维拉VS阿森纳 4K赛场原声 02:45
+http://39.81.185.254:1234/967033674
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/英超 阿斯顿维拉VS阿森纳 江忠德 02:45.png",英超 阿斯顿维拉VS阿森纳 江忠德 02:45
+http://39.81.185.254:1234/966999323
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/英超 阿斯顿维拉VS阿森纳 英文原声 02:45.png",英超 阿斯顿维拉VS阿森纳 英文原声 02:45
+http://39.81.185.254:1234/966999311
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/英超 阿斯顿维拉VS阿森纳 詹俊 张路 李子琪 02:30.png",英超 阿斯顿维拉VS阿森纳 詹俊 张路 李子琪 02:30
+http://39.81.185.254:1234/966999335
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/英超 阿斯顿维拉VS阿森纳 赛场原声 02:45.png",英超 阿斯顿维拉VS阿森纳 赛场原声 02:45
+http://39.81.185.254:1234/966999304
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/西甲 塞尔塔VS毕尔巴鄂竞技 全场回放（兰子非） 03:15.png",西甲 塞尔塔VS毕尔巴鄂竞技 全场回放（兰子非） 03:15
+http://39.81.185.254:1234/967149502
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/西甲 奥萨苏纳VS赫塔菲 赛场原声 01:15.png",西甲 奥萨苏纳VS赫塔菲 赛场原声 01:15
+http://39.81.185.254:1234/966999112
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/西甲 奥萨苏纳VS赫塔菲 鹿中原 01:15.png",西甲 奥萨苏纳VS赫塔菲 鹿中原 01:15
+http://39.81.185.254:1234/966999101
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/西甲 巴塞罗那VS巴列卡诺 梁祥宇 李欣 03:15.png",西甲 巴塞罗那VS巴列卡诺 梁祥宇 李欣 03:15
+http://39.81.185.254:1234/966998783
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/西甲 巴塞罗那VS巴列卡诺 赛场原声 03:15.png",西甲 巴塞罗那VS巴列卡诺 赛场原声 03:15
+http://39.81.185.254:1234/966998778
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/西甲 拉科鲁尼亚VS瓦伦西亚 全场回放（孙雨轩） 01:15.png",西甲 拉科鲁尼亚VS瓦伦西亚 全场回放（孙雨轩） 01:15
+http://39.81.185.254:1234/967145912
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/谍战剧场.png",谍战剧场
 http://120.238.84.45:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/财富天下.png",财富天下
+http://39.81.185.254:1234/956923159
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/贵州卫视-高清.png",贵州卫视-高清
 http://114.245.198.169:85/tsfile/live/38/1038_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/贵港新闻综合.png",贵港新闻综合
+http://110.72.103.111:808/hls/7/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/赛事最经典.png",赛事最经典
+http://39.81.185.254:1234/646596895
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/足协杯 云南玉昆VS重庆铜梁龙 孙雨轩 19:45.png",足协杯 云南玉昆VS重庆铜梁龙 孙雨轩 19:45
+http://39.81.185.254:1234/966999355
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/足协杯 云南玉昆VS重庆铜梁龙 智能解说 19:55.png",足协杯 云南玉昆VS重庆铜梁龙 智能解说 19:55
+http://39.81.185.254:1234/967054741
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/足协杯 云南玉昆VS重庆铜梁龙 赛场原声 19:45.png",足协杯 云南玉昆VS重庆铜梁龙 赛场原声 19:45
+http://39.81.185.254:1234/966999023
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/足协杯 北京国安VS兰州陇原竞技 张昊泽 19:20.png",足协杯 北京国安VS兰州陇原竞技 张昊泽 19:20
+http://39.81.185.254:1234/966999336
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/足协杯 北京国安VS兰州陇原竞技 赛场原声 19:20.png",足协杯 北京国安VS兰州陇原竞技 赛场原声 19:20
+http://39.81.185.254:1234/966999001
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/足协杯 大连英博海发VS上海申花 娄一晨 李彦 魏欣怡 19:00.png",足协杯 大连英博海发VS上海申花 娄一晨 李彦 魏欣怡 19:00
+http://39.81.185.254:1234/966999309
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/足协杯 大连英博海发VS上海申花 智能解说 19:30.png",足协杯 大连英博海发VS上海申花 智能解说 19:30
+http://39.81.185.254:1234/967054642
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/足协杯 大连英博海发VS上海申花 赛场原声 19:20.png",足协杯 大连英博海发VS上海申花 赛场原声 19:20
+http://39.81.185.254:1234/966998857
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/足协杯 山东泰山VS上海海港 智能解说 19:30.png",足协杯 山东泰山VS上海海港 智能解说 19:30
+http://39.81.185.254:1234/967054706
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/足协杯 山东泰山VS上海海港 石庆圣 刘越 邵凌霄 19:00.png",足协杯 山东泰山VS上海海港 石庆圣 刘越 邵凌霄 19:00
+http://39.81.185.254:1234/966999283
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/足协杯 山东泰山VS上海海港 赛场原声 19:20.png",足协杯 山东泰山VS上海海港 赛场原声 19:20
+http://39.81.185.254:1234/966998832
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/连云港新闻综合.png",连云港新闻综合
+http://39.81.185.254:1234/639731715
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/都市剧场高清.png",都市剧场高清
 http://120.238.84.45:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/金色频道.png",金色频道
+http://110.72.103.111:808/hls/1021/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/金鹰卡通.png",金鹰卡通
+http://110.72.103.111:808/hls/26/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/金鹰卡通.png",金鹰卡通
 http://182.91.79.82:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/金鹰纪实高清.png",金鹰纪实高清
 http://120.238.84.45:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/镇江新闻综合.png",镇江新闻综合
+http://39.81.185.254:1234/639731783
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/陕西体育休闲频道.png",陕西体育休闲频道
+http://39.81.185.254:1234/956909356
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/陕西新闻资讯频道.png",陕西新闻资讯频道
+http://39.81.185.254:1234/956909289
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/陕西秦腔频道.png",陕西秦腔频道
+http://39.81.185.254:1234/956909303
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/陕西都市青春频道.png",陕西都市青春频道
+http://39.81.185.254:1234/956909358
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/陕西银龄频道.png",陕西银龄频道
+http://39.81.185.254:1234/956909362
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/风云剧场.png",风云剧场
 http://120.238.84.45:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/风云足球.png",风云足球
 http://120.238.84.45:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/风云音乐.png",风云音乐
 http://120.238.84.45:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/香港卫视HD.png",香港卫视HD
+http://110.72.103.111:808/hls/235577686/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/香港音乐.png",香港音乐
+http://110.72.103.111:808/hls/229291699/index.m3u8
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/魅力时尚.png",魅力时尚
+http://110.72.103.111:808/hls/219/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/黑龙江卫视-高清.png",黑龙江卫视-高清
 http://114.245.198.169:85/tsfile/live/35/1035_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/﻿CCTV-1.png",﻿CCTV-1
+http://110.72.103.111:808/hls/54/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/﻿CCTV-1.png",﻿CCTV-1
 http://110.72.81.174:808/hls/54/index.m3u8
 #EXTINF:-1 group-title="未分类节目" tvg-logo="https://logo.gcl.de5.net/tv/﻿CCTV-1.png",﻿CCTV-1
